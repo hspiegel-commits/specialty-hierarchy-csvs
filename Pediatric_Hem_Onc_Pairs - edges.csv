@@ -1,0 +1,171 @@
+parent,child
+Biological Therapy,Gene and Cellular Therapy
+Gene and Cellular Therapy,CAR-T(chimeric antigen receptor t-cell) therapy
+Gene and Cellular Therapy,Oncolytic Virotherapy
+Hematopoietic Stem Cell Transplantation,Bone Marrow Transplantation
+Hematopoietic Stem Cell Transplantation,Umbilical Cord Transplantation
+Hematopoietic Stem Cell Transplantation,Graft-versus-Host Disease
+General Pediatric Hematology,Hemoglobin Disorders
+Hemoglobin Disorders,Hemoglobinopathies
+Hemoglobinopathies,Sickle Cell Disease
+Hemoglobinopathies,Thalassemia
+Thalassemia,Alpha-Thalassemia
+Thalassemia,Beta-Thalassemia
+Hemoglobin Disorders,Hereditary Hemolytic Anemias
+Hereditary Hemolytic Anemias,Hereditary Spherocytosis
+Hereditary Hemolytic Anemias,Pyruvate Kinase Deficiency
+General Pediatric Hematology,Hemostasis Disorders
+Hemostasis Disorders,Bleeding Disorders
+Bleeding Disorders,Bleeding Disorders in Women
+Bleeding Disorders in Women,Disordered Menstrual Bleeding
+Bleeding Disorders,Clotting Factor Deficiencies
+Clotting Factor Deficiencies,Hemophilia
+Hemophilia,Hemophilia A
+Hemophilia,Hemophilia B
+Clotting Factor Deficiencies,Rare Factor Deficiencies
+Clotting Factor Deficiencies,Von Willebrand Disease
+Bleeding Disorders,Platelet Disorders
+Platelet Disorders,Immune Thrombocytopenia
+Platelet Disorders,Inherited Platelet Disorders
+Inherited Platelet Disorders,Bernard-Soulier Syndrome
+Inherited Platelet Disorders,Congenital Thrombocytopenias
+Inherited Platelet Disorders,Glanzmann Thrombasthenia
+Platelet Disorders,Thrombocytopenia
+Thrombocytopenia,Heparin-Induced Thrombocytopenia (HIT)
+Hemostasis Disorders,Thrombophilic Disorders
+Thrombophilic Disorders,Acquired Thrombophilic Disorders
+Acquired Thrombophilic Disorders,Antiphospholipid Syndrome
+Acquired Thrombophilic Disorders,Paroxysmal Nocturnal Hemoglobinuria
+Thrombophilic Disorders,Genetic Thrombophilic Disorders
+Genetic Thrombophilic Disorders,Factor V Leiden Mutation
+Hemostasis Disorders,Thrombosis Disorders
+Thrombosis Disorders,Cerebral Venous Thrombosis
+Thrombosis Disorders,Venous Thromboembolism
+Venous Thromboembolism,Deep Vein Thrombosis
+Venous Thromboembolism,Pulmonary Embolism
+General Pediatric Hematology,Immunohematology
+Immunohematology,Autoimmune Cytopenias
+Autoimmune Cytopenias,Autoimmune Hemolytic Anemia
+Autoimmune Cytopenias,Autoimmune Neutropenia
+Autoimmune Cytopenias,Immune Thrombocytopenia
+Autoimmune Cytopenias,Thrombotic Thrombocytopenic Purpura
+Immunohematology,Bone Marrow Failure Syndromes
+Bone Marrow Failure Syndromes,Aplastic Anemia
+Bone Marrow Failure Syndromes,Diamond-Blackfan Anemia
+Bone Marrow Failure Syndromes,Dyskeratosis Congenita
+Bone Marrow Failure Syndromes,Fanconi Anemia
+Bone Marrow Failure Syndromes,Schwachman-Diamond Disease
+Bone Marrow Failure Syndromes,Wiskott-Aldrich Syndrome
+Immunohematology,Evans Syndrome
+Immunohematology,Histiocyte Disorders
+Histiocyte Disorders,Hemophagocytic Lymphohistiocytosis
+Histiocyte Disorders,Langerhans Cell Histiocytosis
+Histiocyte Disorders,Non-Langerhans Cell Histiocytosis
+Non-Langerhans Cell Histiocytosis,Erdheim-Chester Disease
+Non-Langerhans Cell Histiocytosis,Juvenile Xanthogranuloma
+Non-Langerhans Cell Histiocytosis,Rosai-Dorfman Disease
+Immunohematology,Immune Regulatory Disorders
+Immunohematology,Primary Immune Deficiency Diseases
+Primary Immune Deficiency Diseases,Autoimmune Lymphoproliferative Syndrome (ALPS)
+Primary Immune Deficiency Diseases,DiGeorge Syndrome
+Primary Immune Deficiency Diseases,Severe Combined Immunodeficiency (SCID)
+Severe Combined Immunodeficiency (SCID),Omenn Syndrome
+Primary Immune Deficiency Diseases,Wiskott-Aldrich Syndrome
+General Pediatric Hematology,Neonatal Hematology
+General Pediatric Hematology,White Blood Cell Disorders
+White Blood Cell Disorders,Disorders of Phagocyte Function
+Disorders of Phagocyte Function,Neutropenia
+General Pediatric Oncology,Cancer Predisposition Syndromes
+Cancer Predisposition Syndromes,Beckwith-Wiedemann Syndrome
+Cancer Predisposition Syndromes,Li-Fraumeni Syndrome
+Cancer Predisposition Syndromes,Neurofibromatosis
+Neurofibromatosis,Neurofibromatosis Type 1
+General Pediatric Oncology,Cancer Treatment-Related Symptoms and Toxicities
+Cancer Treatment-Related Symptoms and Toxicities,Oncology-Associated Infections
+Cancer Treatment-Related Symptoms and Toxicities,Ototoxicity
+General Pediatric Oncology,Embryonal Tumors
+Embryonal Tumors,Hepatoblastoma
+Embryonal Tumors,Neuroblastoma
+Embryonal Tumors,Retinoblastoma
+Embryonal Tumors,Rhabdomyosarcoma
+Embryonal Tumors,Wilm's Tumor
+General Pediatric Oncology,Late Effects of Childhood Cancer and Therapy
+Late Effects of Childhood Cancer and Therapy,Oncofertility
+Late Effects of Childhood Cancer and Therapy,Subsequent Neoplasms
+General Pediatric Oncology,Pediatric Neuro-Oncology
+Pediatric Neuro-Oncology,Central Nervous System Tumors
+Central Nervous System Tumors,Brain Tumors
+Brain Tumors,Gliomas
+Gliomas,High-grade Glioma
+High-grade Glioma,Diffuse Intrinsic Pontine Glioma (DIPG)
+High-grade Glioma,Glioblastoma
+Gliomas,Low-grade Glioma
+Low-grade Glioma,Ganglioglioma
+Brain Tumors,Medulloblastoma
+Central Nervous System Tumors,Embryonal Brain Tumors
+Embryonal Brain Tumors,Atypical Teratoid/Rhabdoid Tumors
+Embryonal Brain Tumors,Medulloblastoma
+Embryonal Brain Tumors,Primitive Neuroectodermal Tumors(PNET)
+Primitive Neuroectodermal Tumors(PNET),Neuroblastic Tumors
+Neuroblastic Tumors,Ganglioneuroblastoma
+Neuroblastic Tumors,Ganglioneuroma
+Neuroblastic Tumors,Neuroblastoma
+Central Nervous System Tumors,Meningeal Neoplasms
+Meningeal Neoplasms,Meningeal Carcinomatosis
+Central Nervous System Tumors,Retinoblastoma
+Central Nervous System Tumors,Ependymoma
+General Pediatric Oncology,Solid Tumors
+Solid Tumors,Adenocarcinoma
+Adenocarcinoma,Adrenocortical Tumors
+Adenocarcinoma,Renal Tumors
+Renal Tumors,Renal Cell Carcinoma
+Renal Tumors,Wilm's Tumor
+Solid Tumors,Bone Sarcomas
+Bone Sarcomas,Ewing Sarcoma
+Bone Sarcomas,Osteosarcoma
+Solid Tumors,Germ Cell Tumors
+Solid Tumors,Liver Tumors
+Liver Tumors,Hepatoblastoma
+Liver Tumors,Hepatocellular Carcinoma
+Solid Tumors,Neuroblastoma
+Neuroblastoma,Relapsed/Refractory Neuroblastoma
+Solid Tumors,Soft Tissue Sarcoma
+Soft Tissue Sarcoma,Fat Tissue Sarcoma
+Fat Tissue Sarcoma,Liposarcoma
+Soft Tissue Sarcoma,Fibrous/Connective Tissue Sarcoma
+Fibrous/Connective Tissue Sarcoma,Fibrosarcoma
+Fibrous/Connective Tissue Sarcoma,Inflammatory Myofibroblastic Tumor
+Soft Tissue Sarcoma,Gastrointenstinal Stromal Tumors
+Soft Tissue Sarcoma,Skeletal Muscle Tumors
+Skeletal Muscle Tumors,Rhabdomyosarcoma
+Soft Tissue Sarcoma,Smooth Muscle Tumors
+Smooth Muscle Tumors,Leiomyosarcoma
+Soft Tissue Sarcoma,Synovial Sarcoma
+Soft Tissue Sarcoma,Vascular Tumors
+Vascular Tumors,Hemangioma
+Hemangioma,Infantile Hemangioma
+Hematologic Malignancies,Leukemias
+Leukemias,Acute Leukemias
+Acute Leukemias,Acute Lymphoblastic Leukemia (ALL)
+Acute Lymphoblastic Leukemia (ALL),B-cell ALL
+Acute Lymphoblastic Leukemia (ALL),T-cell ALL
+Acute Leukemias,Acute Myeloid Leukemia
+Acute Myeloid Leukemia,Acute Megakaryoblastic Leukemia
+Acute Myeloid Leukemia,Acute Promyelocytic Leukemia
+Acute Leukemias,Down Syndrome-Associated Leukemias
+Down Syndrome-Associated Leukemias,Acute Megakaryoblastic Leukemia of Down Syndrome
+Down Syndrome-Associated Leukemias,Down Syndrome-Associated ALL
+Down Syndrome-Associated Leukemias,Transient Abnormal Myelopoiesis
+Leukemias,Chronic Leukemias
+Chronic Leukemias,Chronic Lymphocytic Leukemia
+Chronic Leukemias,Chronic Myelogenous Leukemia
+Hematologic Malignancies,Lymphomas
+Lymphomas,Hodgkin's Lymphoma
+Lymphomas,Non-Hodgkin's Lymphoma
+Non-Hodgkin's Lymphoma,B-cell Lymphomas
+B-cell Lymphomas,Burkitt Lymphoma
+Non-Hodgkin's Lymphoma,T-cell Lymphomas
+T-cell Lymphomas,Anaplastic Large Cell Lymphoma
+Myeloproliferative Neoplasms,Polycythemia Vera
+Myeloproliferative Neoplasms,Essential Thrombocythemia
+Myeloproliferative Neoplasms,Myelofibrosis
