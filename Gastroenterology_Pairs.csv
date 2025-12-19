@@ -1,0 +1,299 @@
+parent,child
+Gastroenterology,General Gastroenterology
+General Gastroenterology,Abdominal Abscesses
+General Gastroenterology,Gastrointestinal Fistula
+General Gastroenterology,Gastrointestinal Symptoms
+Gastrointestinal Symptoms,Abdominal Pain
+Gastrointestinal Symptoms,Nausea and Vomiting
+Gastrointestinal Symptoms,Gastrointestinal Bleeding
+Gastrointestinal Symptoms,Diarrhea
+Gastrointestinal Symptoms,Constipation
+Gastrointestinal Symptoms,Dyspepsia (Indigestion)
+General Gastroenterology,Digestive Diseases and Women's Health
+Gastroenterology,Gastrointestinal Emergencies
+Gastrointestinal Emergencies,Gastrointestinal Bleeding
+Gastrointestinal Bleeding,Upper GI Bleeding
+Upper GI Bleeding,Peptic Ulcer Disease
+Upper GI Bleeding,Varices
+Upper GI Bleeding,Gastritis
+Gastrointestinal Bleeding,Lower GI Bleeding
+Lower GI Bleeding,Diverticulosis
+Lower GI Bleeding,Hemorrhoids
+Lower GI Bleeding,Ischemic Colitis
+Gastrointestinal Bleeding,Abdominal Abscesses
+Gastrointestinal Bleeding,Acute Abdominal Pain
+Gastrointestinal Bleeding,Acute Mesenteric Ischemia
+Gastrointestinal Bleeding,Appendicitis
+Gastrointestinal Bleeding,Hernias
+Gastrointestinal Bleeding,Intestinal Obstruction
+Gastrointestinal Bleeding,Rupture or Perforation of the Digestive Tract
+Gastrointestinal Emergencies,Gastrointestinal Neoplasms
+Gastrointestinal Neoplasms,Gastric (Stomach) Cancer
+Gastric (Stomach) Cancer,Stomach Adenocarcinoma
+Stomach Adenocarcinoma,Intestinal Stomach Adenocarcinoma
+Stomach Adenocarcinoma,Diffuse Stomach Adenocarcinoma
+Alpha-1 Antitrypsin Deficiency,Hemochromatosis
+Hemochromatosis,Inherited Liver Diseases
+Gastrointestinal Neoplasms,Small Intestine Cancer
+Gastrointestinal Neoplasms,Anal Cancer
+Anal Cancer,Anal Squamous Cell Carcinoma
+Gastrointestinal Neoplasms,Gallbladder Cancer
+Gastrointestinal Neoplasms,Colorectal Neoplasms
+Colorectal Neoplasms,Colon Polyps
+Colorectal Neoplasms,Hereditary Colorectal Cancer
+Hereditary Colorectal Cancer,Hereditary Non-polyposis Colorectal Cancer (HNPCC)
+Hereditary Non-polyposis Colorectal Cancer (HNPCC),Lynch Syndrome
+Hereditary Colorectal Cancer,Hereditary Polyposis Colorectal Cancer (HPCC)
+Biliary Disease,Colonoscopy
+Colonoscopy,Gallbladder and Extrahepatic Biliary Tree
+Hereditary Polyposis Colorectal Cancer (HPCC),Adenomatous Polyposis Syndromes
+Adenomatous Polyposis Syndromes,Familial Adenomatous Polyposis
+Hepatitis C Virus,Crohn's Disease
+Crohn's Disease,Ulcerative Colitis
+Familial Adenomatous Polyposis,Gardner Syndrome
+Gastrointestinal Neoplasms,Esophageal Cancer
+Gastrointestinal Neoplasms,Pancreatic Cancer
+Pancreatic Cancer,Pancreatic Islet-Cell Tumors
+Gastrointestinal Neoplasms,Liver Cancer
+Liver Cancer,Primary Liver Cancer
+Primary Liver Cancer,Hepatocellular Carcinoma
+Primary Liver Cancer,Bile Duct Cancer/Cholangiocarcinoma
+Liver Cancer,Secondary Metastatic Liver Cancer
+Gastrointestinal Neoplasms,Zollinger-Ellison Syndrome
+Gastrointestinal Neoplasms,Gastrointestinal Neoplasms: Common Tumor Histotypes
+Gastrointestinal Neoplasms: Common Tumor Histotypes,Adenocarcinoma
+Gastrointestinal Neoplasms: Common Tumor Histotypes,Sarcoma
+Gastrointestinal Neoplasms: Common Tumor Histotypes,Squamous Cell Carcinomas
+Gastrointestinal Neoplasms: Common Tumor Histotypes,Gastrointestinal Stromal Tumors (GIST)
+Gastrointestinal Stromal Tumors (GIST),Stomach GIST
+Gastrointestinal Stromal Tumors (GIST),Small Intestine GIST
+Gastrointestinal Stromal Tumors (GIST),Esophageal GIST
+Gastrointestinal Stromal Tumors (GIST),Colon and Rectal GIST
+Gastrointestinal Neoplasms: Common Tumor Histotypes,Neuroendocrine Tumors
+Neuroendocrine Tumors,Carcinoid Tumors of the Gut
+Neuroendocrine Tumors,Metastatic Carcinoid Tumors
+Gastrointestinal Neoplasms,Cancer Prevention
+Cancer Prevention,Screening and Early Detection
+Cancer Prevention,Lifestyle Modifications
+Gastrointestinal Emergencies,Functional Gastrointestinal Disorders (FGID)
+Functional Gastrointestinal Disorders (FGID),Functional Esophageal Disorders
+Functional Esophageal Disorders,Globus Pharyngeus
+Functional Esophageal Disorders,Functional Chest Pain
+Functional Esophageal Disorders,Functional Heartburn
+Functional Esophageal Disorders,Functional Dysphagia
+Functional Esophageal Disorders,Reflux Hypersensitivity
+Functional Gastrointestinal Disorders (FGID),Gastroduoadenal Disorders
+Gastroduoadenal Disorders,Functional Dyspepsia
+Gastroduoadenal Disorders,Belching Disorders
+Gastroduoadenal Disorders,Nausea and Vomiting Disorders
+Gastroduoadenal Disorders,Rumination Syndrome
+Functional Gastrointestinal Disorders (FGID),Functional Bowel Disease
+Functional Bowel Disease,Abdominal Pain
+Functional Bowel Disease,Irritable Bowel Syndrome (IBS)
+Functional Bowel Disease,Functional Bloating and Distension
+Functional Bowel Disease,Constipation
+Constipation,Chronic Functional Constipation
+Functional Bowel Disease,Functional Diarrhea
+Functional Bowel Disease,Anorectal Disorders
+Anorectal Disorders,Fecal Incontinence
+Functional Gastrointestinal Disorders (FGID),Gastrointestinal Motility Disorders
+Gastrointestinal Motility Disorders,Anorectal and Pelvic Floor Motility
+Anorectal and Pelvic Floor Motility,Fecal Incontinence
+Gastrointestinal Motility Disorders,Colon Motility
+Colon Motility,Constipation
+Colon Motility,Diarrhea
+Gastrointestinal Motility Disorders,Small Intestinal Motility
+Small Intestinal Motility,Intestinal Dysmotility
+Small Intestinal Motility,Intestinal Pseudo-Obstruction
+Small Intestinal Motility,Small Intestinal Bacterial Overgrowth (SIBO)
+Gastrointestinal Motility Disorders,Esophageal Motility
+Esophageal Motility,Gastroesophageal Reflux Disease (GERD)
+Esophageal Motility,Dysphagia
+Esophageal Motility,Achalasia
+Gastrointestinal Motility Disorders,Gastric Motility
+Gastric Motility,Gastroparesis
+Gastroparesis,Idiopathic Gastroparesis
+Gastric Motility,Rapid Gastric Emptying (Dumping Syndrome)
+Gastric Motility,Cyclic Vomiting Syndrome (CSV)
+Gastrointestinal Emergencies,Hepatology
+Hepatology,Hepatobiliary Disease
+Hepatobiliary Disease,Liver Disease
+Liver Disease,Hepatic Pathology
+Liver Disease,Characteristics and Complications of Liver Disease
+Characteristics and Complications of Liver Disease,Fibrosis
+Characteristics and Complications of Liver Disease,Cirrhosis
+Characteristics and Complications of Liver Disease,Hepatomegaly
+Characteristics and Complications of Liver Disease,Splenomegaly
+Characteristics and Complications of Liver Disease,Jaundice/Hyperbilirubinemia
+Characteristics and Complications of Liver Disease,Ascites
+Characteristics and Complications of Liver Disease,Hepatic Encephalopathy
+Characteristics and Complications of Liver Disease,Portal Hypertension
+Characteristics and Complications of Liver Disease,End-Stage Liver Disease
+End-Stage Liver Disease,Liver Failure
+Liver Failure,Acute Liver Failure
+Liver Failure,Chronic Liver Failure
+Liver Disease,Hepatitis
+Hepatitis,Acute Hepatitis
+Hepatitis,Chronic Hepatitis
+Hepatitis,Viral Hepatitis
+Viral Hepatitis,Hepatitis C
+Liver Disease,Metabolic/Inherited Liver Disease
+Metabolic/Inherited Liver Disease,Hereditary Hemochromatosis
+Metabolic/Inherited Liver Disease,Alpha-1 Antitrypsin Deficiency
+Metabolic/Inherited Liver Disease,Wilson's Disease
+Metabolic/Inherited Liver Disease,Gilbert's Syndrome
+Metabolic/Inherited Liver Disease,Gaucher's Disease
+Metabolic/Inherited Liver Disease,Glycogen Storage Diseases
+Metabolic/Inherited Liver Disease,Alagille Syndrome
+Liver Disease,Autoimmune and Cholestatic Liver Disease
+Autoimmune and Cholestatic Liver Disease,Primary Sclerosis Cholangitis
+Autoimmune and Cholestatic Liver Disease,Primary Biliary Cholangitis (previously termed: Primary Biliary Cirrhosis)
+Autoimmune and Cholestatic Liver Disease,Autoimmune Hepatitis
+Autoimmune Hepatitis,Type 1 Autoimmune Hepatitis
+Autoimmune Hepatitis,Type 2 Autoimmune Hepatitis
+Liver Disease,Vascular Liver Disease
+Vascular Liver Disease,Budd-Chiari Syndrome
+Vascular Liver Disease,Hepatic Artery Diseases
+Vascular Liver Disease,Portal Vein Thrombosis
+Vascular Liver Disease,Liver Hemangioma
+Liver Disease,Non-Alcoholic Fatty Liver Disease
+Non-Alcoholic Fatty Liver Disease,Nonalcoholic Steatohepatitis
+Liver Disease,Alcoholic Liver Disease
+Alcoholic Liver Disease,Alcoholic Fatty Liver Disease
+Alcoholic Liver Disease,Alcohol Hepatitis
+Liver Disease,Toxic Liver Injury
+Toxic Liver Injury,Drug-Induced Liver Injury
+Liver Disease,Liver Disease in Women
+Liver Disease in Women,Liver Disease and Pregnancy
+Liver Disease and Pregnancy,Intrahepatic Cholestasis of Pregnancy (ICP)
+Liver Disease,Atypical Liver Disease
+Liver Disease,Liver Transplant/Transplant Hepatology
+Hepatobiliary Disease,Pancreatic Disease
+Pancreatic Disease,Chronic Pancreatitis
+Pancreatic Disease,Acute Pancreatitis
+Acute Pancreatitis,Severe Acute Pancreatitis
+Pancreatic Disease,Hereditary Pancreatitis
+Pancreatic Disease,Cystic Fibrosis
+Hepatobiliary Disease,Biliary Disease
+Biliary Disease,Gallbladder Disease
+Gallbladder Disease,Gallstones(Cholelithiasis)
+Gallstones(Cholelithiasis),Cholestrol Stones
+Gallstones(Cholelithiasis),Pigment Stones
+Gallbladder Disease,Cholecystitis
+Cholecystitis,Acute Cholecystitis
+Cholecystitis,Chronic Cholecystitis
+Gallbladder Disease,Gallbladder Polyps
+Gastrointestinal Emergencies,Intestinal Disorders
+Intestinal Disorders,Colonic Diseases
+Colonic Diseases,Diverticulosis
+Diverticulosis,Diverticulitis
+Colonic Diseases,Clostridium Difficile Infection (c. diff)
+Intestinal Disorders,Small Intestine Disorders
+Small Intestine Disorders,Malabsorption Syndromes
+Malabsorption Syndromes,Celiac Disease
+Malabsorption Syndromes,Whipple's Disease
+Malabsorption Syndromes,Short Bowel Syndrome
+Malabsorption Syndromes,Intestinal Lymphangiectasia
+Malabsorption Syndromes,Small Intestinal Bacterial Overgrowth
+Intestinal Disorders,Inflammatory Bowel Disease
+Inflammatory Bowel Disease,Crohn's Disease
+Inflammatory Bowel Disease,Ulcerative Colitis
+Intestinal Disorders,Scleroting Mesenteritis
+Intestinal Disorders,Diarrheal Diseases
+Intestinal Disorders,Intestinal Worms
+Gastrointestinal Emergencies,Esophageal Disease
+Esophageal Disease,Barrett's Esophagus
+Esophageal Disease,Esophageal Diverticula
+Esophageal Disease,Esophageal Spasms
+Esophageal Disease,Esophageal Webs
+Esophageal Disease,Esophageal Motility
+Esophageal Motility,Gastroesophageal Reflux Disease (GERD)
+Esophageal Disease,Eosinophilic Esophagitis
+Esophageal Disease,Mallory-Weiss Syndrome
+Esophageal Disease,Swallowing Disorders/Dysphagia
+Esophageal Disease,Achalasia
+Esophageal Disease,Structural Abnormalities
+Structural Abnormalities,Hiatal Hernias
+Gastrointestinal Emergencies,Gastric/Stomach Disorders
+Gastric/Stomach Disorders,Gastritis
+Gastritis,Erosive Gastritis
+Gastritis,Non-Erosive Gastritis
+Gastric/Stomach Disorders,Gastric Diverticulosis
+Gastric/Stomach Disorders,Gastric Dysrhythmias
+Gastric Dysrhythmias,Gastroparesis
+Gastroparesis,Idiopathic Gastroparesis
+Gastric/Stomach Disorders,Peptic Ulcer Disease
+Peptic Ulcer Disease,Duodenal Ulcers
+Peptic Ulcer Disease,Gastric/Stomach Ulcers
+Gastric/Stomach Disorders,Eosinophilic Gastroenteritis
+Gastric/Stomach Disorders,H. Pylori (Helicobacter Pylori) Infection
+Gastric/Stomach Disorders,Structural Gastric Disorders
+Structural Gastric Disorders,Gastric Volvulus
+Gastric/Stomach Disorders,Vascular Gastric Disorders
+Vascular Gastric Disorders,Gastric Varices
+Vascular Gastric Disorders,Gastric Antral Vascular Ectasia (GAVE)
+Gastrointestinal Emergencies,Immune and Infectious Gastrointestinal Disorders
+Immune and Infectious Gastrointestinal Disorders,Infectious GI Disease
+Infectious GI Disease,Diarrheal Diseases
+Diarrheal Diseases,Clostridium Difficile (c. diff) Infection
+Diarrheal Diseases,Antibiotic-Associated Diarrhea
+Infectious GI Disease,H. Pylori Infection
+Infectious GI Disease,Whipple's Disease
+Infectious GI Disease,Foodborne Illness
+Infectious GI Disease,AIDS-Associated Gastrointestinal Disorders
+Infectious GI Disease,Epstein-Barr Virus-Related GI Manifestations
+Immune and Infectious Gastrointestinal Disorders,"Autoimmune, Inflammatory and Immune-Related GI Disorders"
+"Autoimmune, Inflammatory and Immune-Related GI Disorders",Inflammatory Bowel Disease
+Inflammatory Bowel Disease,Crohn's Disease
+Inflammatory Bowel Disease,Ulcerative Colitis
+"Autoimmune, Inflammatory and Immune-Related GI Disorders",Gastrointestinal Manifestations of Primary Immunodeficiency Disorders (PIDs)
+"Autoimmune, Inflammatory and Immune-Related GI Disorders",Systemic Autoimmune and Inflammatory Diseases Involving the GI Tract
+Systemic Autoimmune and Inflammatory Diseases Involving the GI Tract,Behcet's Disease
+Systemic Autoimmune and Inflammatory Diseases Involving the GI Tract,Systemic Lupus Erythematosus (SLE)
+Systemic Autoimmune and Inflammatory Diseases Involving the GI Tract,Systemic Sclerosis (Scleroderma)
+"Autoimmune, Inflammatory and Immune-Related GI Disorders",Allergic GI Disorders
+Allergic GI Disorders,Allergic Gastroenteropathy
+Allergic GI Disorders,Food Allergies
+Gastrointestinal Emergencies,Nutritional and Metabolic Diseases in Gastroenterology
+Nutritional and Metabolic Diseases in Gastroenterology,Nutrition Disorders
+Nutrition Disorders,Nutritional Deficiencies
+Nutritional Deficiencies,Vitamin E Deficiency
+Nutritional Deficiencies,Vitamin D Deficiency
+Nutritional Deficiencies,Iron Deficiency
+Nutritional Deficiencies,Magnesium Deficiency
+Nutritional Deficiencies,Potassium Deficiency
+Nutrition Disorders,Malabsorption
+Nutrition Disorders,Obesity
+Nutritional and Metabolic Diseases in Gastroenterology,Nutritional Management of Gastrointestinal Disease
+Nutritional Management of Gastrointestinal Disease,Enteral and Parenteral Nutrition
+Nutritional Management of Gastrointestinal Disease,Dietary Therapy for IBS
+Nutritional and Metabolic Diseases in Gastroenterology,Metabolic Disease
+Metabolic Disease,Malabsorption Syndromes
+Malabsorption Syndromes,Celiac Disease
+Malabsorption Syndromes,Whipple's Disease
+Malabsorption Syndromes,Lactose Intolerance
+Metabolic Disease,Lipid Metabolism Disorders
+Lipid Metabolism Disorders,Hyperlipidemia (High Cholestrol)
+Metabolic Disease,Metabolic Syndrome
+Gastrointestinal Emergencies,Ischemic and Vascular Bowel Disorders
+Ischemic and Vascular Bowel Disorders,Ischemic Bowel Disease (ISBODI)
+Ischemic Bowel Disease (ISBODI),Colon Ischemia
+Ischemic Bowel Disease (ISBODI),Acute Mesenteric Ischemia (AMI)
+Ischemic Bowel Disease (ISBODI),Chronic Mesenteric Ischemia (CMI)
+Gastrointestinal Emergencies,Advanced Gastrointestinal Diagnostic and Therapeutic Procedures
+Advanced Gastrointestinal Diagnostic and Therapeutic Procedures,Endoscopy and Advanced Endoscopy
+Endoscopy and Advanced Endoscopy,Endoscopy
+Endoscopy,Upper Endoscopy
+Endoscopy,Capsule Endoscopy
+Endoscopy,Balloon-Assisted Enteroscopy
+Endoscopy,Colonoscopy
+Endoscopy and Advanced Endoscopy,Advanced Endoscopy
+Advanced Endoscopy,Therapeutic Gastrointestinal Endoscopy
+Therapeutic Gastrointestinal Endoscopy,Therapeutic Endoscopic Retrograde Cholangiopancreatography (ERCP)
+Therapeutic Gastrointestinal Endoscopy,Endoscopic Ultrasonography
+Advanced Gastrointestinal Diagnostic and Therapeutic Procedures,Gastrointestinal Radiology
+Gastrointestinal Radiology,Hepatic/Biliary Radiology
+Advanced Gastrointestinal Diagnostic and Therapeutic Procedures,Minimally Invasive Therapies
+Minimally Invasive Therapies,Photodynamic Therapy
+Minimally Invasive Therapies,Laser Therapy in Gastroenterology
+Gastrointestinal Emergencies,Psychosocial Factors of Gastrointestinal Disorders

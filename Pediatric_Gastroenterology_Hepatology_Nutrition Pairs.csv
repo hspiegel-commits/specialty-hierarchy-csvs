@@ -1,0 +1,161 @@
+parent,child
+Pediatric Functional Gastrointestinal Disorders (FGIDs),Neonate and Toddler
+Neonate and Toddler,Infant Regurgitation
+Neonate and Toddler,Infant Rumination Syndrome
+Neonate and Toddler,Infant Colic
+Neonate and Toddler,Infant Dyschezia
+Neonate and Toddler,Cyclic Vomiting Syndrome
+Neonate and Toddler,Functional Diarrhea
+Neonate and Toddler,Functional Constipation
+Pediatric Functional Gastrointestinal Disorders (FGIDs),Children and Adolescents
+Children and Adolescents,Nausea and Vomiting
+Children and Adolescents,Abdominal Pain
+Abdominal Pain,Functional Dyspepsia
+Children and Adolescents,Irritable Bowel Syndrome
+Children and Adolescents,Constipation
+Children and Adolescents,Fecal Incontinence
+Pediatric Functional Gastrointestinal Disorders (FGIDs),Gastrointestinal Motility Disorders
+Gastrointestinal Motility Disorders,Colon Motility
+Gastrointestinal Motility Disorders,Esophageal Motility
+Gastrointestinal Motility Disorders,Gastric Motility
+Pediatric Hepatology,Biliary Disease
+Pediatric Hepatology,Liver Disease
+Liver Disease,Metabolic/Inherited Liver Disease
+Metabolic/Inherited Liver Disease,Alpha-1 Antitrypsin Deficiency
+Metabolic/Inherited Liver Disease,Alagille Syndrome
+Metabolic/Inherited Liver Disease,Congenital Hepatic Fibrosis
+Metabolic/Inherited Liver Disease,Infantile Giant Cell Hepatitis
+Metabolic/Inherited Liver Disease,Wilson Disease
+Liver Disease,Cholestatic Liver Disease
+Cholestatic Liver Disease,Neonatal Cholestasis
+Neonatal Cholestasis,Conjugated Hyperbilirubinemia
+Cholestatic Liver Disease,Cholelithiasis
+Cholestatic Liver Disease,Progressive Familial Intrahepatic Cholestasis
+Cholestatic Liver Disease,Primary Sclerosing Cholangitis
+Cholestatic Liver Disease,Primary Biliary Cholangitis
+Cholestatic Liver Disease,Biliary Atresia
+Liver Disease,Hepatitis
+Hepatitis,Viral Hepatitis
+Viral Hepatitis,Hepatitis A
+Viral Hepatitis,Hepatitis B
+Viral Hepatitis,Hepatitis C Virus
+Hepatitis,Chronic Hepatitis
+Hepatitis,Autoimmune Hepatitis
+Liver Disease,Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD)
+Liver Disease,Vascular Liver Disease
+Vascular Liver Disease,Budd-Chiari Syndrome
+Pediatric Hepatology,Pancreatic Disorders
+Pancreatic Disorders,Congenital Anomalies
+Pancreatic Disorders,Cystic Fibrosis
+Pancreatic Disorders,Pancreatitis
+Pancreatitis,Chronic Pancreatitis
+Pancreatitis,Acute Pancreatitis
+Acute Pancreatitis,Severe Acute Pancreatitis
+Pancreatic Disorders,Schwachman-Diamond Syndrome
+Pediatric Hepatology,Pediatric Liver Transplantation
+Congenital Gastrointestinal Anomalies and Disorders,Meckel's Diverticulum
+Congenital Gastrointestinal Anomalies and Disorders,Hirschprung's Disease
+Congenital Gastrointestinal Anomalies and Disorders,Neonatal Hemochromatosis
+Congenital Gastrointestinal Anomalies and Disorders,Esophageal Anomalies
+Esophageal Anomalies,Esophageal Atresia
+Esophageal Anomalies,Tracheoesophageal Fistulas
+Pediatric Esophageal Disease,Achalasia
+Pediatric Esophageal Disease,Esophageal Strictures
+Pediatric Esophageal Disease,Hiatal Hernia
+Pediatric Esophageal Disease,Eosinophilic Esophagitis
+Pediatric Esophageal Disease,Esophageal Reflux
+Esophageal Reflux,Gastroesophageal Reflux Disease (GERD)
+Pediatric Gastrointestinal Neoplasms,Liver Cancer/Liver Tumors
+Liver Cancer/Liver Tumors,Hepatoblastoma
+Liver Cancer/Liver Tumors,Hepatocellular Carcinoma
+Liver Cancer/Liver Tumors,Hemangiomas
+Pediatric Gastrointestinal Neoplasms,Colorectal Neoplasms
+Colorectal Neoplasms,Colon Polyps
+Colon Polyps,Polyposis Syndromes
+Polyposis Syndromes,Juvenile Polyposis Syndrome
+Polyposis Syndromes,Adenomatous Polyposis Syndromes
+Adenomatous Polyposis Syndromes,Familial Adenomatous Polyposis
+Familial Adenomatous Polyposis,Gardner Syndrome
+Pediatric Gastrointestinal Neoplasms,Gastric (Stomach) Cancer
+Pediatric Gastrointestinal Neoplasms,Pancreatic Cancer
+Pediatric Gastrointestinal Neoplasms,Esophageal Cancer
+Pediatric Gastrointestinal Neoplasms,Neuroendocrine Tumors
+Pediatric Gastrointestinal Neoplasms,Zollinger-Ellison Syndrome
+Immune-Mediated Gastrointestinal Disorders,Autoimmune GI Disorders
+Autoimmune GI Disorders,Inflammatory Bowel Disease
+Inflammatory Bowel Disease,Crohn's Disease
+Inflammatory Bowel Disease,Ulcerative Colitis
+Autoimmune GI Disorders,Pediatric Autoimmune Malabsorption/Autoimmune Enteropathy (AIE)
+Immune-Mediated Gastrointestinal Disorders,GI Manifestations of Primary Immunodeficiency
+Immune-Mediated Gastrointestinal Disorders,Gastrointestinal Allergy
+Gastrointestinal Allergy,IgE-mediated Allergy
+IgE-mediated Allergy,GI Manifestations of Food Allergy
+Gastrointestinal Allergy,Eosinophilic Disorders
+Eosinophilic Disorders,Eosinophilic Esophagitis
+Eosinophilic Disorders,Eosinophilic Gastritis
+Eosinophilic Disorders,Eosinophilic Gastroenteritis
+Gastrointestinal Allergy,Allergic Gastroenteropathy
+Allergic Gastroenteropathy,Food Protein-Induced Enterocolitis Syndrome
+Infectious GI Disease,Gastrointestinal Manifestations of Pediatric AIDS
+Infectious GI Disease,H. Pylori Infection
+Infectious GI Disease,Epstein-Barr Virus-Related GI Manifestations
+Pediatric Nutrition and Metabolic Disorders,Nutrition
+Nutrition,Vitamin E Deficiency
+Nutrition,Parenteral Nutrition
+Nutrition,Enteral Nutrition
+Nutrition,Malabsorption
+Nutrition,Malnutrition
+Pediatric Nutrition and Metabolic Disorders,Malabsorption Syndromes
+Malabsorption Syndromes,Celiac Disease
+Malabsorption Syndromes,Protein-Losing Enteropathy
+Pediatric Nutrition and Metabolic Disorders,Pediatric Obesity
+Pediatric Nutrition and Metabolic Disorders,Pediatric Swallowing Disorders (Dysphagia)
+Pediatric Nutrition and Metabolic Disorders,Pediatric Feeding Disorders
+Pediatric Nutrition and Metabolic Disorders,Genetic/Metabolic Disorders
+Genetic/Metabolic Disorders,Prader-Willi Syndrome
+Genetic/Metabolic Disorders,Bardet-Biedl Syndrome
+Genetic/Metabolic Disorders,Disorders of Lipid Metabolism
+Disorders of Lipid Metabolism,Cholesterol Disorders
+Cholesterol Disorders,Pediatric Hyperlipidemia/Familial Hypercholesterolemia
+Genetic/Metabolic Disorders,Disorders of Iron Metabolism
+Disorders of Iron Metabolism,Hemochromatosis
+Genetic/Metabolic Disorders,Disorders of Amino Acid Metabolism
+Disorders of Amino Acid Metabolism,Tyrosinemia
+Genetic/Metabolic Disorders,Disorders of Carbohydrate Metabolism
+Disorders of Carbohydrate Metabolism,Galactosemia
+Disorders of Carbohydrate Metabolism,Hereditary Fructose Intolerance
+Genetic/Metabolic Disorders,Peroxisomal Disorders
+Pediatric Intestinal Disorders,Short Bowel Syndrome
+Pediatric Intestinal Disorders,Small Bowel Atresia (Intestinal Atresia)
+Pediatric Intestinal Disorders,Necrotizing Enterocolitis
+Pediatric Intestinal Disorders,Celiac Disease
+Pediatric Intestinal Disorders,Diarrheal Diseases
+Pediatric Gastric (Stomach) Disorders,Peptic Ulcer Disease
+Pediatric Gastric (Stomach) Disorders,Eosinophilic Gastritis
+Pediatric Gastric (Stomach) Disorders,Infantile Hypertrophic Pyloric Stenosis (Pyloric Stenosis)
+General Pediatric Gastroenterology,Pediatric Gastrointestinal Emergencies
+Pediatric Gastrointestinal Emergencies,Appendicitis
+Pediatric Gastrointestinal Emergencies,Acute Intestinal Obstruction
+Acute Intestinal Obstruction,Intussusception
+General Pediatric Gastroenterology,Pediatric Growth Disorders
+Pediatric Growth Disorders,Failure to Thrive (FTT)
+Pediatric Growth Disorders,Constitutional Growth Delay
+Pediatric Growth Disorders,Intrauterine Growth Restriction (IUGR)
+Pediatric Growth Disorders,Genetic Disorders
+General Pediatric Gastroenterology,Pediatric Gastrointestinal Signs and Symptoms
+Pediatric Gastrointestinal Signs and Symptoms,Vomiting and Regurgitation
+Pediatric Gastrointestinal Signs and Symptoms,Abdominal Pain
+Pediatric Gastrointestinal Signs and Symptoms,Colic
+Pediatric Gastrointestinal Signs and Symptoms,Diarrhea
+Pediatric Gastrointestinal Signs and Symptoms,Constipation
+Pediatric Gastrointestinal Signs and Symptoms,Malabsorption
+Pediatric Gastrointestinal Signs and Symptoms,Dysphagia
+Pediatric Gastrointestinal Signs and Symptoms,Jaundice
+Pediatric Gastrointestinal Signs and Symptoms,Liver Failure
+Pediatric Gastrointestinal Signs and Symptoms,Hepatomegaly
+Pediatric Gastrointestinal Signs and Symptoms,Ascites
+Diagnostic and Interventional Procedures,Endoscopy
+Endoscopy,Upper Endoscopy
+Endoscopy,Capsule Endoscopy
+Endoscopy,Balloon-Assisted Enteroscopy
+Endoscopy,Colonoscopy
