@@ -1,0 +1,128 @@
+parent,child
+"Endocrinology, Diabetes, and Metabolism",General Endocrinology
+General Endocrinology,Nutrition
+"Endocrinology, Diabetes, and Metabolism",Diabetes Mellitus
+Diabetes Mellitus,Insulin Resistance
+Diabetes Mellitus,Type 1 Diabetes
+Diabetes Mellitus,Type 2 Diabetes
+Diabetes Mellitus,Gestational Diabetes
+Diabetes Mellitus,Diabetes and Pregnancy
+Diabetes Mellitus,Complications of Diabetes
+Complications of Diabetes,Diabetic Ketoacidosis (DKA)
+Complications of Diabetes,Diabetic Retinopathy
+Complications of Diabetes,Diabetic Nephropathy
+Complications of Diabetes,Diabetic Foot/Diabetes Foot
+Diabetes Mellitus,Diabetes and Cardiovascular Disease
+"Endocrinology, Diabetes, and Metabolism",Thyroid Disorders
+Thyroid Disorders,Hypothyroidism
+Hypothyroidism,Autoimmune Hypothyroidism (Hashimoto’s Thyroiditis)
+Thyroid Disorders,Hyperthyroidism
+Hyperthyroidism,Graves’ Disease
+Thyroid Disorders,Thyroid Nodules
+Thyroid Disorders,Thyroid Cancer
+"Endocrinology, Diabetes, and Metabolism",Adrenal Disorders
+Adrenal Disorders,Cushing’s Syndrome
+Cushing’s Syndrome,Cushing’s Disease
+Cushing’s Syndrome,Ectopic Cushing's Syndrome
+Adrenal Disorders,Adrenal Tumors
+Adrenal Tumors,Pheochromocytoma
+Adrenal Disorders,Hyperaldosteronism
+Hyperaldosteronism,Primary Aldosteronism/Conn's Syndrome
+Adrenal Disorders,Late Onset/Nonclassic Congenital Adrenal Hyperplasia
+"Endocrinology, Diabetes, and Metabolism",Metabolic Disorders
+Metabolic Disorders,Inherited Bone and Mineral Metabolism Disorders
+Inherited Bone and Mineral Metabolism Disorders,Osteopetrosis
+Inherited Bone and Mineral Metabolism Disorders,Paget's Disease of the Bone
+Metabolic Disorders,Bone and Mineral Disorders
+Bone and Mineral Disorders,Vitamin D Deficiency
+Bone and Mineral Disorders,Metabolic Bone Disease
+Metabolic Bone Disease,Osteoporosis
+Metabolic Bone Disease,Osteopenia
+Metabolic Bone Disease,Osteomalacia
+Metabolic Bone Disease,Fibrous Dysplasia
+Bone and Mineral Disorders,Mineral Metabolism Disorders
+Mineral Metabolism Disorders,Calcium Metabolism Disorders
+Calcium Metabolism Disorders,Hypercalcemia
+Hypercalcemia,Familial Hypocalciuric Hypercalcemia
+Calcium Metabolism Disorders,Cutaneous Calcification/Calcinosis Cutis
+Cutaneous Calcification/Calcinosis Cutis,Tumoral Calcinosis
+Tumoral Calcinosis,Idiopathic Tumoral Calcinosis
+Mineral Metabolism Disorders,Kidney Stones/Nephrolithiasis
+Metabolic Disorders,Intermediary Metabolism Disorders
+Intermediary Metabolism Disorders,Disorders of Carbohydrate and Fat Metabolism
+Disorders of Carbohydrate and Fat Metabolism,Glucose Metabolism
+Glucose Metabolism,Hyperinsulinemia
+Glucose Metabolism,Insulin Resistance
+Glucose Metabolism,Hypoglycemia
+Glucose Metabolism,Glycogen Storage Diseases
+Disorders of Carbohydrate and Fat Metabolism,Obesity
+Disorders of Carbohydrate and Fat Metabolism,Metabolic Syndrome
+Disorders of Carbohydrate and Fat Metabolism,Disorders of Lipid Metabolism
+Disorders of Lipid Metabolism,Hyperlipidemia
+Disorders of Lipid Metabolism,Fatty Acid Metabolism Disorders
+Disorders of Carbohydrate and Fat Metabolism,Ketone Disorders
+"Endocrinology, Diabetes, and Metabolism",Hypothalamic-Pituitary Disorders
+Hypothalamic-Pituitary Disorders,Pituitary Disorders
+Pituitary Disorders,Diabetes Insipidus
+Pituitary Disorders,Pituitary Tumors
+Pituitary Tumors,Prolactinoma
+Hypothalamic-Pituitary Disorders,Growth Disorders
+Growth Disorders,Adult Growth Hormone Deficiency
+Adult Growth Hormone Deficiency,Growth Hormone Treatment
+Hypothalamic-Pituitary Disorders,Neuroendocrinology
+Neuroendocrinology,Neuroendocrine Tumors
+Neuroendocrine Tumors,Carcinoids
+Neuroendocrine Tumors,Pheochromocytoma
+"Endocrinology, Diabetes, and Metabolism",Reproductive Endocrinology
+Reproductive Endocrinology,Female Reproductive Endocrinology
+Female Reproductive Endocrinology,Polycystic Ovary Syndrome (PCOS)
+Polycystic Ovary Syndrome (PCOS),Hirsutism
+Polycystic Ovary Syndrome (PCOS),Acne
+Female Reproductive Endocrinology,Hyperandrogenism
+Hyperandrogenism,Hirsutism
+Hyperandrogenism,Androgenic Alopecia
+Female Reproductive Endocrinology,Amenorrhea
+Female Reproductive Endocrinology,Primary Ovarian Failure
+Female Reproductive Endocrinology,Endometriosis
+Female Reproductive Endocrinology,Asherman Syndrome
+Female Reproductive Endocrinology,Female Infertility
+Female Infertility,Assisted Reproductive Technology
+Assisted Reproductive Technology,In Vitro Fertilization (IVF)
+Female Reproductive Endocrinology,Menopause
+Menopause,Premature Menopause
+Menopause,Hormone Replacement Therapy/Menopausal Hormone Therapy
+Reproductive Endocrinology,Male Reproductive Endocrinology
+Male Reproductive Endocrinology,Hypogonadism
+Male Reproductive Endocrinology,Male Factor Infertility
+Male Factor Infertility,Assisted Reproductive Technology
+Assisted Reproductive Technology,Intracytoplasmic Sperm Injection (ICSI)
+Reproductive Endocrinology,Disorders of Sexual Function
+Disorders of Sexual Function,Gonadal Dysgenesis
+"Endocrinology, Diabetes, and Metabolism",Endocrine Oncology
+Endocrine Oncology,Neuroendocrine Tumors
+Neuroendocrine Tumors,Carcinoids
+Neuroendocrine Tumors,Pheochromocytoma
+Endocrine Oncology,Adrenal Tumors
+Adrenal Tumors,Pheochromocytoma
+Adrenal Tumors,Adrenocortical Tumors
+Endocrine Oncology,Thyroid Cancer
+Endocrine Oncology,Pituitary Tumors
+Endocrine Oncology,Parathyroid Tumors
+Endocrine Oncology,Multiple Endocrine Neoplasia
+Endocrine Oncology,Ectopic Hormone Syndromes
+"Endocrinology, Diabetes, and Metabolism",Autoimmune Endocrinology/Autoimmune Endocrine Disorders
+Autoimmune Endocrinology/Autoimmune Endocrine Disorders,Autoimmune Thyroid Disease
+Autoimmune Thyroid Disease,Graves Disease
+Autoimmune Thyroid Disease,Autoimmune Hypothyroidism
+Autoimmune Endocrinology/Autoimmune Endocrine Disorders,Type 1 Diabetes Mellitus (Previously called 'Juvenile Diabetes')
+Autoimmune Endocrinology/Autoimmune Endocrine Disorders,Addison's Disease
+Autoimmune Endocrinology/Autoimmune Endocrine Disorders,Autoimmune Polyglandular Syndrome
+Autoimmune Polyglandular Syndrome,Autoimmune Polyglandular Syndrome Type 1
+"Endocrinology, Diabetes, and Metabolism",Parathyroid Disorders
+Parathyroid Disorders,Hyperparathyroidism
+Parathyroid Disorders,Hypoparathyroidism
+Parathyroid Disorders,Parathyroid Tumors
+"Endocrinology, Diabetes, and Metabolism",Behavioral Endocrinology
+Behavioral Endocrinology,Eating Disorders
+"Endocrinology, Diabetes, and Metabolism",Cardiovascular Endocrinology
+Cardiovascular Endocrinology,Endocrine Hypertension

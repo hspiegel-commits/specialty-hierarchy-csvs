@@ -1,0 +1,125 @@
+parent,child
+Anemias,Microcytic Anemia
+Anemias,Normocytic Anemia
+Anemias,Macrocytic Anemia
+Anemias,Hemolytic Anemias
+Hemolytic Anemias,Acquired Hemolytic Anemias
+Acquired Hemolytic Anemias,Immune Hemolytic Anemia
+Immune Hemolytic Anemia,Drug-Induced Immune Hemolytic Anemia
+Hemolytic Anemias,Inherited Hemolytic Anemias
+Inherited Hemolytic Anemias,Hereditary Spherocytosis
+Inherited Hemolytic Anemias,Pyruvate Kinase Deficiency
+Inherited Hemolytic Anemias,Hemoglobinopathies
+Hemoglobinopathies,Sickle Cell Disease
+Hemoglobinopathies,Thalassemia
+Thalassemia,Alpha-Thalassemia
+Thalassemia,Beta-Thalassemia
+Hemoglobin Disorders,Hemoglobinopathies
+Hemoglobinopathies,Sickle Cell Disease
+Hemoglobinopathies,Thalassemia
+Thalassemia,Alpha-Thalassemia
+Thalassemia,Beta-Thalassemia
+Hemostasis Disorders,Bleeding and Coagulation Disorders
+Bleeding and Coagulation Disorders,Bleeding Disorders in Women
+Bleeding Disorders in Women,Disordered Menstrual Bleeding
+Bleeding Disorders in Women,Pregnancy and Coagulation Disorders
+Bleeding and Coagulation Disorders,Clotting Factor Deficiencies
+Clotting Factor Deficiencies,Hemophilia
+Hemophilia,Acquired Hemophilia
+Hemophilia,Hemophilia A
+Hemophilia,Hemophilia B
+Hemophilia,Hemophilia C (Factor XI Deficiency)
+Hemophilia,Hemophilia-Associated HIV/AIDS
+Clotting Factor Deficiencies,Rare Factor Deficiencies
+Rare Factor Deficiencies,Inherited Coagulation Factor Deficiencies
+Clotting Factor Deficiencies,Von Willebrand Disease
+Bleeding and Coagulation Disorders,Disseminated Intravascular Coagulation
+Bleeding and Coagulation Disorders,Hypercoagulability in Liver Disease
+Bleeding and Coagulation Disorders,Hypercoagulability in Kidney(Renal) Disease
+Bleeding and Coagulation Disorders,Platelet Disorders
+Platelet Disorders,Inherited Platelet Disorders
+Inherited Platelet Disorders,Bernard-Soulier Syndrome
+Inherited Platelet Disorders,Congenital Thrombocytopenias
+Inherited Platelet Disorders,Glanzmann Thrombasthenia
+Platelet Disorders,Thrombocytopenia
+Thrombocytopenia,Immune Thrombocytopenia
+Thrombocytopenia,Heparin-Induced Thrombocytopenia (HIT)
+Thrombocytopenia,Thrombotic Thrombocytopenic Purpura
+Bleeding and Coagulation Disorders,Primary and Secondary Fibrinolysis
+Hemostasis Disorders,Thrombophilic Disorders
+Thrombophilic Disorders,Acquired Thrombophilic Disorders
+Acquired Thrombophilic Disorders,Antiphospholipid Syndrome (APS)
+Antiphospholipid Syndrome (APS),Anticardiolipid Antibody
+Antiphospholipid Syndrome (APS),Lupus Anticoagulant
+Antiphospholipid Syndrome (APS),Pregnancy Loss in APS
+Acquired Thrombophilic Disorders,Paroxysmal Nocturnal Hemoglobinuria
+Thrombophilic Disorders,Genetic Thrombophilic Disorders
+Genetic Thrombophilic Disorders,Factor V Leiden Mutation
+Thrombophilic Disorders,Thrombophilia
+Hemostasis Disorders,Thrombosis/Thrombotic Disorders
+Thrombosis/Thrombotic Disorders,Cancer-Associated Thrombosis
+Thrombosis/Thrombotic Disorders,Cerebral Venous Thrombosis
+Thrombosis/Thrombotic Disorders,Thrombotic Microangiopathy
+Thrombotic Microangiopathy,Hemolytic Uremic Syndrome
+Thrombotic Microangiopathy,Thrombotic Thrombocytopenic Purpura
+Thrombosis/Thrombotic Disorders,Venous Thromboembolism
+Venous Thromboembolism,Deep Vein Thrombosis
+Venous Thromboembolism,Pulmonary Embolism
+Immunohematology,Acquired Hemophilia
+Immunohematology,Autoimmune Cytopenias
+Autoimmune Cytopenias,Autoimmune Hemolytic Anemia
+Autoimmune Cytopenias,Autoimmune Neutropenia
+Autoimmune Cytopenias,Immune Thrombocytopenia
+Autoimmune Cytopenias,Thrombotic Thrombocytopenic Purpura
+Immunohematology,Bone Marrow Failure Syndromes
+Bone Marrow Failure Syndromes,Aplastic Anemia
+Bone Marrow Failure Syndromes,Diamond-Blackfan Anemia
+Bone Marrow Failure Syndromes,Dyskeratosis Congenita
+Bone Marrow Failure Syndromes,Fanconi Anemia
+Bone Marrow Failure Syndromes,Schwachman-Diamond Disease
+Bone Marrow Failure Syndromes,Wiskott-Aldrich Syndrome
+Immunohematology,Evans Syndrome
+Immunohematology,Histiocyte Disorders
+Histiocyte Disorders,Hemophagocytic Lymphohistiocytosis
+Histiocyte Disorders,Langerhans Cell Histiocytosis
+Histiocyte Disorders,Non-Langerhans Cell Histiocytosis
+Non-Langerhans Cell Histiocytosis,Erdheim-Chester Disease
+Non-Langerhans Cell Histiocytosis,Juvenile Xanthogranuloma
+Non-Langerhans Cell Histiocytosis,Rosai-Dorfman Disease
+Immunohematology,Immune Regulatory Disorders
+Immunohematology,Primary Immune Deficiency Diseases
+Primary Immune Deficiency Diseases,Autoimmune Lymphoproliferative Syndrome (ALPS)
+Primary Immune Deficiency Diseases,DiGeorge Syndrome
+Primary Immune Deficiency Diseases,Severe Combined Immunodeficiency (SCID)
+Severe Combined Immunodeficiency (SCID),Omenn Syndrome
+Primary Immune Deficiency Diseases,Wiskott-Aldrich Syndrome
+Iron Metabolism Disorders,Hereditary Hemochromatosis
+Hematologic Malignancies,Leukemias
+Leukemias,Acute Leukemias
+Acute Leukemias,Acute Lymphoblastic Leukemia (ALL)
+Acute Lymphoblastic Leukemia (ALL),B-cell ALL
+Acute Lymphoblastic Leukemia (ALL),T-cell ALL
+Acute Leukemias,Acute Myeloid Leukemia
+Acute Myeloid Leukemia,Acute Megakaryoblastic Leukemia
+Acute Myeloid Leukemia,Acute Promyelocytic Leukemia
+Acute Leukemias,Down Syndrome-Associated Leukemias
+Down Syndrome-Associated Leukemias,Acute Megakaryoblastic Leukemia of Down Syndrome
+Down Syndrome-Associated Leukemias,Down Syndrome-Associated ALL
+Down Syndrome-Associated Leukemias,Transient Abnormal Myelopoiesis
+Leukemias,Chronic Leukemias
+Chronic Leukemias,Chronic Lymphocytic Leukemia
+Chronic Leukemias,Chronic Myelogenous Leukemia
+Hematologic Malignancies,Lymphomas
+Lymphomas,Hodgkin's Lymphoma
+Lymphomas,Non-Hodgkin's Lymphoma
+Non-Hodgkin's Lymphoma,B-cell Lymphomas
+B-cell Lymphomas,Burkitt Lymphoma
+Non-Hodgkin's Lymphoma,T-cell Lymphomas
+T-cell Lymphomas,Anaplastic Large Cell Lymphoma
+Hematologic Malignancies,Plasma Cell Neoplasms
+Plasma Cell Neoplasms,Monoclonal Gammopathy of Undetermined Significance (MGUS)
+Plasma Cell Neoplasms,Multiple Myeloma
+Plasma Cell Neoplasms,Waldenstrom Macroglobulinemia
+Myeloproliferative Neoplasms,Polycythemia Vera
+Myeloproliferative Neoplasms,Essential Thrombocythemia
+Myeloproliferative Neoplasms,Myelofibrosis

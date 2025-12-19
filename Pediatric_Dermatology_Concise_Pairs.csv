@@ -1,0 +1,50 @@
+parent,child
+Pediatric Dermatology,Clinical Dermatology
+Pediatric Dermatology,General Pediatric Dermatology
+Pediatric Dermatology,Cutaneous Oncology
+Cutaneous Oncology,Melanocytic Nevi
+Cutaneous Oncology,Melanoma
+Cutaneous Oncology,Cutaneous Lymphomas
+Cutaneous Oncology,Dermatofibrosarcoma Protuberans/Complex Dermatofibrosarcoma
+Pediatric Dermatology,Vascular Disorders
+Vascular Disorders,Vascular Anomalies
+Vascular Anomalies,Hemangiomas
+Hemangiomas,Infantile Hemangiomas
+Hemangiomas,PHACE Syndrome
+Vascular Anomalies,Vascular Malformations
+Vascular Malformations,Vascular Birthmarks
+Vascular Birthmarks,Port-Wine Stains
+Pediatric Dermatology,Genetic Skin Disorders
+Genetic Skin Disorders,Congenital Skin Disorders
+Pediatric Dermatology,Pigmentary Disorders
+Pigmentary Disorders,Vitiligo
+Pigmentary Disorders,Lentigines
+Pediatric Dermatology,Infestations and Infections
+Infestations and Infections,Head Lice (Pediculosis)
+Pediatric Dermatology,Inflammatory Dermatoses
+Inflammatory Dermatoses,Eczema/Atopic Dermatitis
+Inflammatory Dermatoses,Seborrheic Dermatitis
+Inflammatory Dermatoses,Diaper Dermatitis/Diaper Rash
+Inflammatory Dermatoses,Psoriasis
+Inflammatory Dermatoses,Acne
+Acne,Neonatal Acne
+Acne,Adolescent Acne
+Pediatric Dermatology,Cutaneous Manifestations of Systemic Disease
+Pediatric Dermatology,Drug Reactions
+Pediatric Dermatology,Developmental Anomalies
+Developmental Anomalies,Pigmented Birthmarks
+Pigmented Birthmarks,Congenital Melanocytic Nevi
+Pediatric Dermatology,Sweat Gland Disorders
+Sweat Gland Disorders,Hyperhidrosis
+Pediatric Dermatology,Hair Disorders
+Hair Disorders,Hair Loss
+Hair Disorders,Alopecia
+Alopecia,Alopecia Areata
+Pediatric Dermatology,Nail Disorders
+Pediatric Dermatology,Dermatologic Surgery
+Dermatologic Surgery,Skin Cancer Surgery and Reconstruction
+Skin Cancer Surgery and Reconstruction,Mohs Micrographic Surgery
+Dermatologic Surgery,Cosmetic Dermatologic Surgery
+Cosmetic Dermatologic Surgery,Pediatric Laser Surgery
+Pediatric Dermatology,Pediatric Cosmetic Dermatology
+Pediatric Dermatology,Dermatopathology

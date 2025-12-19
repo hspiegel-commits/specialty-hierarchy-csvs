@@ -1,0 +1,61 @@
+parent,child
+Pediatric Endocrinology,General Pediatric Endocrinology
+Pediatric Endocrinology,Disorders of the Hypothalamic-Pituitary Axis
+Disorders of the Hypothalamic-Pituitary Axis,Growth Hormone Deficiency
+Disorders of the Hypothalamic-Pituitary Axis,Precocious Puberty
+Disorders of the Hypothalamic-Pituitary Axis,Diabetes Insipidus
+Disorders of the Hypothalamic-Pituitary Axis,Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH)
+Pediatric Endocrinology,Adrenal Disorders
+Adrenal Disorders,Congenital Adrenal Hyperplasia (CAH)
+Adrenal Disorders,Adrenal Insufficiency (Primary and Secondary)
+Adrenal Disorders,Cushing's Syndrome
+Cushing's Syndrome,Cushing's Disease
+Pediatric Endocrinology,Thyroid Disorders
+Thyroid Disorders,Congenital Hypothyroidism
+Thyroid Disorders,Acquired Hypothyroidism
+Acquired Hypothyroidism,Hashimoto's Thyroiditis
+Thyroid Disorders,Hyperthyroidism
+Hyperthyroidism,Graves' Disease
+Pediatric Endocrinology,Growth and Development Disorders/Growth Disorders
+Growth and Development Disorders/Growth Disorders,Growth Hormone Deficiency
+Growth Hormone Deficiency,Growth Hormones
+Growth and Development Disorders/Growth Disorders,Idiopathic Short Stature
+Growth and Development Disorders/Growth Disorders,Turner Syndrome
+Growth and Development Disorders/Growth Disorders,Skeletal Dysplasias
+Growth and Development Disorders/Growth Disorders,Disorders of Sexual Development (DSDs)/Sex Differentiation Disorders
+Pediatric Endocrinology,Pediatric Reproductive Endocrinology
+Pediatric Reproductive Endocrinology,Polycystic Ovary Syndrome (PCOS)
+Pediatric Reproductive Endocrinology,Disorders of Puberty
+Disorders of Puberty,Precocious Puberty
+Disorders of Puberty,Delayed Puberty
+Pediatric Reproductive Endocrinology,Hypogonadism
+Pediatric Reproductive Endocrinology,Klinefelter Syndrome
+Pediatric Endocrinology,Diabetes and Glucose Metabolism Disorders
+Diabetes and Glucose Metabolism Disorders,Type 1 Diabetes Mellitus (Juvenile-Onset Diabetes)
+Diabetes and Glucose Metabolism Disorders,Type 2 Diabetes Mellitus
+Diabetes and Glucose Metabolism Disorders,Diabetic Ketoacidosis (DKA)
+Diabetes and Glucose Metabolism Disorders,Hypoglycemia
+Hypoglycemia,Persistent Hyperinsulinemic Hypoglycemia of Infancy (PHHI)
+Pediatric Endocrinology,Obesity and Metabolic Disorders
+Obesity and Metabolic Disorders,Pediatric Obesity
+Pediatric Obesity,Prader-Willi Syndrome
+Pediatric Endocrinology,Bone and Mineral Disorders
+Bone and Mineral Disorders,Metabolic Bone Disease
+Metabolic Bone Disease,Rickets
+Metabolic Bone Disease,Fibrous Dysplasia
+Metabolic Bone Disease,Osteogenesis Imperfecta
+Metabolic Bone Disease,Osteopetrosis
+Metabolic Bone Disease,Hypoparathyroidism
+Metabolic Bone Disease,Hyperparathyroidism
+Bone and Mineral Disorders,Mineral Metabolism Disorders
+Mineral Metabolism Disorders,Hypercalcemia
+Hypercalcemia,Familial Hypocalciuric Hypercalcemia
+Pediatric Endocrinology,Late Endocrine Effects of Childhood Cancer and Therapy
+Pediatric Endocrinology,Endocrine Oncology
+Endocrine Oncology,Thyroid Cancer
+Endocrine Oncology,Neuroendocrine Tumors
+Neuroendocrine Tumors,Carcinoids
+Endocrine Oncology,Adrenal Tumors
+Adrenal Tumors,Pheochromocytoma
+Endocrine Oncology,Pituitary Tumors
+Endocrine Oncology,Multiple Endocrine Neoplasia (MEN) Syndromes

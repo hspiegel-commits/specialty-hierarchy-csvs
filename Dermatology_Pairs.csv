@@ -1,0 +1,150 @@
+parent,child
+General Dermatology,Acne
+General Dermatology,Eczema/Atopic Dermatitis
+General Dermatology,Psoriasis
+General Dermatology,Rosacea
+General Dermatology,Urticaria/Hives
+General Dermatology,Pruritis
+General Dermatology,Skin Cancer Screening
+Medical Dermatology,Inflammatory Skin Disorders
+Inflammatory Skin Disorders,Contact Dermatitis
+Contact Dermatitis,Allergic Contact Dermatitis/Allergic Reactions of the Skin
+Inflammatory Skin Disorders,Pemphigus
+Inflammatory Skin Disorders,Eczema/Atopic Dermatitis
+Inflammatory Skin Disorders,Angioedema
+Inflammatory Skin Disorders,Urticaria/Hives
+Inflammatory Skin Disorders,Acne
+Inflammatory Skin Disorders,Rosacea
+Inflammatory Skin Disorders,Psoriasis
+Inflammatory Skin Disorders,Lichenoid Sclerosus/Lichen Sclerosus et Atrophicus
+Inflammatory Skin Disorders,Hidradenitis Suppurativa
+Inflammatory Skin Disorders,Bullous/Blistering Disorders
+Inflammatory Skin Disorders,Pruritic Disease/Prurigo
+Inflammatory Skin Disorders,Panniculitis
+Medical Dermatology,Pigmentary Disorders
+Pigmentary Disorders,Depigmenting Diseases
+Depigmenting Diseases,Vitiligo
+Pigmentary Disorders,Melasma
+Pigmentary Disorders,Lentigines
+Medical Dermatology,Sweat Gland Disorders
+Sweat Gland Disorders,Hyperhidrosis
+Medical Dermatology,Hair and Scalp Disorders
+Hair and Scalp Disorders,Hair Loss
+Hair and Scalp Disorders,Alopecia
+Alopecia,Alopecia Areata
+Hair and Scalp Disorders,Hirsutism
+Medical Dermatology,Nail Disorders
+Nail Disorders,Fungal Nail Infections/Onychomycosis
+Medical Dermatology,Immunologic Dermatology/Cutaneous Immunology
+Immunologic Dermatology/Cutaneous Immunology,Mastocytosis
+Mastocytosis,Urticaria
+Immunologic Dermatology/Cutaneous Immunology,Connective Tissue Disorders
+Connective Tissue Disorders,Sarcoidosis
+Connective Tissue Disorders,Collagen Vascular Disease
+Collagen Vascular Disease,Scleroderma
+Scleroderma,Systemic Sclerosis
+Scleroderma,Localized Scleroderma/Morphea
+Collagen Vascular Disease,Dermatomyositis
+Collagen Vascular Disease,Discoid Lupus Erythematosus (DLE)/Cutaneous Lupus
+Immunologic Dermatology/Cutaneous Immunology,AIDS-Associated Dermatoses
+Immunologic Dermatology/Cutaneous Immunology,Autoimmune Disease
+Medical Dermatology,Infectious Dermatology/Infectious Diseases with Cutaneous Involvement
+Infectious Dermatology/Infectious Diseases with Cutaneous Involvement,Bacterial Infections
+Bacterial Infections,Impetigo
+Infectious Dermatology/Infectious Diseases with Cutaneous Involvement,Fungal Infections/Fungal Infections with Cutaneous Involvement
+Fungal Infections/Fungal Infections with Cutaneous Involvement,Athlete’s Foot (Tinea Pedis)
+Infectious Dermatology/Infectious Diseases with Cutaneous Involvement,Viral Infections
+Viral Infections,Warts (HPV)
+Viral Infections,Herpes Virus Infection
+Herpes Virus Infection,Herpes Simplex/Cold Sores
+Herpes Virus Infection,Herpes Zoster/Shingles
+Medical Dermatology,Vascular Dermatology
+Vascular Dermatology,Vascular Anomalies
+Vascular Anomalies,Hemangiomas
+Vascular Anomalies,Vascular Malformations
+Vascular Malformations,Port-Wine Stains
+Vascular Dermatology,Vasculitis
+Vasculitis,Cutaneous Vasculitis
+Vascular Dermatology,Venous Disease
+Venous Disease,Varicose Veins
+Vascular Dermatology,Vascular Treatments
+Vascular Treatments,Sclerotherapy
+Medical Dermatology,Soft Tissue Disorders
+Soft Tissue Disorders,Idiopathic Tumoral Calcinosis (ITC)
+Medical Dermatology,Mucous Membrane Diseases
+Medical Dermatology,Cutaneous Oncology
+Cutaneous Oncology,Dysplastic Moles/Atypical Nevi
+Cutaneous Oncology,Cutaneous Manifestations of Neoplastic Disease
+Cutaneous Oncology,Skin Cancer
+Skin Cancer,Melanoma/Malignant Melanoma
+Melanoma/Malignant Melanoma,Head and Neck Melanoma
+Skin Cancer,Merkel Cell Carcinoma
+Skin Cancer,Head and Neck Skin Cancers
+Cutaneous Oncology,Cutaneous Histiocytosis
+Cutaneous Oncology,Cutaneous Lymphomas
+Cutaneous Lymphomas,Cutaneous T-Cell Lymphomas
+Cutaneous T-Cell Lymphomas,Mycosis Fungoides
+Cutaneous T-Cell Lymphomas,Sezary Syndrome
+Cutaneous Lymphomas,Cutaneous B-Cell Lymphomas
+Cutaneous Lymphomas,Metastatic Cutaneous Lymphomas
+Cutaneous Oncology,Rare Cutaneous Tumors
+Rare Cutaneous Tumors,Desmoid Tumor/Fibromatosis
+Rare Cutaneous Tumors,Dermatofibrosarcoma Protuberans/Complex Dermatofibrosarcoma
+Rare Cutaneous Tumors,Kaposi's Sarcoma
+Cutaneous Oncology,Diagnostic Procedures
+Diagnostic Procedures,Sentinel Lymph Node Mapping/Biopsy
+Medical Dermatology,Wound Care/Wound Healing
+Wound Care/Wound Healing,Chronic Ulcers
+Chronic Ulcers,Decubitus Ulcers/Pressure Ulcers
+Chronic Ulcers,Leg Ulcers
+Medical Dermatology,Photodermatology
+Photodermatology,Phototherapy
+Phototherapy,Extracorporeal Photopheresis (ECP)
+Phototherapy,Photodynamic Therapy
+Phototherapy,Photochemotherapy (PUVA)
+Medical Dermatology,Rare Skin Disorders
+Medical Dermatology,Genetic Skin Disorders
+Genetic Skin Disorders,Congenital Skin Disorders
+Medical Dermatology,Cutaneous Manifestations of Systemic Disease
+Cutaneous Manifestations of Systemic Disease,Porphyrias
+Cutaneous Manifestations of Systemic Disease,Cutaneous Calcification (Mineralization)
+Cutaneous Manifestations of Systemic Disease,Cutaneous Changes in Peripheral Vascular Disease
+Cosmetic Dermatology,Facial Rejuvenation
+Facial Rejuvenation,Botox (/botulinum Toxin) Therapy
+Facial Rejuvenation,Fillers
+Cosmetic Dermatology,Scar Treatment
+Cosmetic Dermatology,Laser Therapy
+Cosmetic Dermatology,Skin Aging/Skin Damage
+Cosmetic Dermatology,Soft Tissue Augmentation
+Soft Tissue Augmentation,Soft Tissue Filler/Dermal Filler
+Soft Tissue Filler/Dermal Filler,Collagen Implants
+Cosmetic Dermatology,Chemical Peel
+Dermatopathology,Skin Neoplasms/Skin Cancer
+Skin Neoplasms/Skin Cancer,Melanocytic Lesions
+Melanocytic Lesions,Melanoma Skin Lesions
+Skin Neoplasms/Skin Cancer,Non-Melanoma Skin Lesions
+Skin Neoplasms/Skin Cancer,Cutaneous T-Cell Lymphomas
+Cutaneous T-Cell Lymphomas,Mycosis Fungoides
+Cutaneous T-Cell Lymphomas,Sezary Syndrome
+Obstetric and Gynecologic Dermatology,Genital Dermatology
+Genital Dermatology,Vulvar Disease
+Vulvar Disease,Vulvar Dermatoses
+Genital Dermatology,Vaginal Disease
+Vaginal Disease,Vaginitis/Vulvovaginitis
+Vaginal Disease,Chronic Vaginal Ulcers
+Cutaneous Adverse Drug Reactions (CADRs),Stevens-Johson Syndrome (SJS)
+Stevens-Johson Syndrome (SJS),Ocular Manifestations of SJS
+Dermatologic Surgery,Skin Cancer Surgery and Reconstruction
+Skin Cancer Surgery and Reconstruction,Mohs Micrographic Surgery
+Dermatologic Surgery,Reconstructive Surgery
+Dermatologic Surgery,Nail Surgery
+Dermatologic Surgery,Cosmetic Dermatologic Surgery
+Cosmetic Dermatologic Surgery,Laser Surgery
+Laser Surgery,Vascular Birthmarks
+Vascular Birthmarks,Port-Wine Stain
+Cosmetic Dermatologic Surgery,Hair Transplantation
+Cosmetic Dermatologic Surgery,Chemical Peel
+Cosmetic Dermatologic Surgery,Liposuction
+Cosmetic Dermatologic Surgery,Soft Tissue Augmentation
+Soft Tissue Augmentation,Soft Tissue Filler/Dermal Filler
+Occupational and Environmental Dermatology,Ultraviolet Radiation (UVR) Induced Dermatoses

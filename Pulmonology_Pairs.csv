@@ -1,0 +1,329 @@
+parent,child
+Pulmonary Medicine,Developmental Lung Disease/Congenital Malformations of the Lungs
+Developmental Lung Disease/Congenital Malformations of the Lungs,Bronchopulmonary Anomalies
+Bronchopulmonary Anomalies,(Broncho)Pulmonary Sequestration
+Bronchopulmonary Anomalies,Bronchoesophageal/Trachiobronchial Fistulas
+Bronchopulmonary Anomalies,Bronchogenic Cysts
+Bronchopulmonary Anomalies,Congenital Cystic Adenomatoid Malformation/Congenital Pulmonary Airway Malformation
+Bronchopulmonary Anomalies,Pulmonary Agenesis/Aplasia
+Bronchopulmonary Anomalies,Pulmonary Hypoplasia
+Developmental Lung Disease/Congenital Malformations of the Lungs,Congenital Diaphragmatic Hernia
+Developmental Lung Disease/Congenital Malformations of the Lungs,Pulmonary Vascular Anomalies/Malformations
+Pulmonary Vascular Anomalies/Malformations,Arteriovenous Malformations
+Pulmonary Vascular Anomalies/Malformations,Hypogenetic/Scimitar Lung Syndrome
+Pulmonary Vascular Anomalies/Malformations,Pulmonary Lymphatic Malformations
+Pulmonary Lymphatic Malformations,Congenital Pulmonary Lymphangiectasia
+Pulmonary Lymphatic Malformations,Congenital Pulmonary Lymphangiomatosis
+Developmental Lung Disease/Congenital Malformations of the Lungs,Respiratory Disorders of the Newborn/Neonatal Respiratory Disorders
+Respiratory Disorders of the Newborn/Neonatal Respiratory Disorders,Bronchopulmonary Dysplasia
+Respiratory Disorders of the Newborn/Neonatal Respiratory Disorders,Chronic Pulmonary Insufficiency of Prematurity
+Respiratory Disorders of the Newborn/Neonatal Respiratory Disorders,Gastroesophageal Reflux Disease (GERD)
+Respiratory Disorders of the Newborn/Neonatal Respiratory Disorders,Meconium Aspiration Syndrome
+Respiratory Disorders of the Newborn/Neonatal Respiratory Disorders,Neonatal Pneumonia
+Respiratory Disorders of the Newborn/Neonatal Respiratory Disorders,Neonatal/Newborn Respiratory Distress Syndrome
+Respiratory Disorders of the Newborn/Neonatal Respiratory Disorders,Persistent Pulmonary Hypertension of the Newborn
+Respiratory Disorders of the Newborn/Neonatal Respiratory Disorders,Pulmonary Air Leak Syndromes
+Pulmonary Medicine,Pulmonary Neoplasms
+Pulmonary Neoplasms,Lung Cancer
+Lung Cancer,Small Cell Carcinoma
+Small Cell Carcinoma,combined small cell carcinoma
+Lung Cancer,Non Small Cell Carcinoma
+Non Small Cell Carcinoma,Large Cell Carcinoma
+Non Small Cell Carcinoma,Sqamous Cell Carcinoma/Epidermoid Carcinoma
+Non Small Cell Carcinoma,Adenocarcinoma
+Adenocarcinoma,Non Bronchioalveolar Carcinoma
+Adenocarcinoma,Bronchioalveolar Carcinoma
+Lung Cancer,Carcinoid Tumors
+Lung Cancer,Pulmonary Sarcoma
+Lung Cancer,Pulmonary Carcinosarcoma
+Lung Cancer,Parenchymal Leiomyosarcoma
+Pulmonary Neoplasms,Metastatic Malignant Tumors in the Lungs
+Pulmonary Neoplasms,Benign Lung Tumors
+Benign Lung Tumors,Hamartoma
+Benign Lung Tumors,Adenoma
+Benign Lung Tumors,Chondroma
+Benign Lung Tumors,Fibroma
+Benign Lung Tumors,Leiomyoma
+Benign Lung Tumors,Lipoma
+Benign Lung Tumors,Papilloma
+Benign Lung Tumors,Kapsoi's Sarcoma
+Pulmonary Neoplasms,Lymphoproliferative Disease
+Lymphoproliferative Disease,Leukemia
+Leukemia,Acute Myelogenous Leukemia
+Leukemia,Chronic Myelogenous Leukemia
+Lymphoproliferative Disease,Lymphomas
+Lymphomas,Hodgkins Lymphoma
+Lymphomas,Non Hodgkins Lymphoma
+Non Hodgkins Lymphoma,MALT Lymphoma (mucosa-associated lymphoid tissue)
+Non Hodgkins Lymphoma,Waldenstrom's Disease/Waldenstrom's Macroglobulinemia
+Lymphomas,Lymphomatoid Granulomatosis
+Lymphomas,Pulmonary Lymphoid Hyperplasia
+Lymphomas,Castleman's Disease
+Lymphoproliferative Disease,Plasma Cell Neoplasms
+Lymphoproliferative Disease,Histiocytosis X
+Pulmonary Medicine,Infectious Diseases of the Lungs/Pulmonary Infection/Infectious Lung Disease
+Infectious Diseases of the Lungs/Pulmonary Infection/Infectious Lung Disease,Bacterial Lung Diseases
+Bacterial Lung Diseases,Mycobacterial Diseases of the Lungs
+Mycobacterial Diseases of the Lungs,Mycobacterium Tuberculosis
+Bacterial Lung Diseases,Bacterial Pneumonia
+Infectious Diseases of the Lungs/Pulmonary Infection/Infectious Lung Disease,Viral Lung Infections
+Viral Lung Infections,Pneumonia
+Viral Lung Infections,Bronchitis
+Viral Lung Infections,SARS (Severe Acute Respiratory Syndrome)
+Viral Lung Infections,Herpes Viruses
+Herpes Viruses,Herpes Simplex Virus
+Herpes Viruses,Epstein-Barr Virus
+Herpes Viruses,Cytomegalovirus
+Viral Lung Infections,Hantaviruses (Hemorrhagic Fever Syndromes)
+Viral Lung Infections,Influenza Virus
+Viral Lung Infections,Parainfluenza Viruses
+Viral Lung Infections,Respiratory Synctial Viruses
+Infectious Diseases of the Lungs/Pulmonary Infection/Infectious Lung Disease,Fungal Lung Infections
+Fungal Lung Infections,Aspergillosis
+Fungal Lung Infections,Candidiasis
+Infectious Diseases of the Lungs/Pulmonary Infection/Infectious Lung Disease,Parasitic Lung Diseases
+Parasitic Lung Diseases,Malaria
+Parasitic Lung Diseases,Toxoplasmosis
+Pulmonary Medicine,Pleural Disease/Disorders of the Pleura/Disease of the Pleura
+Pleural Disease/Disorders of the Pleura/Disease of the Pleura,Pleural Effusion
+Pleural Effusion,Empyema
+Pleural Effusion,Chylothorax
+Pleural Disease/Disorders of the Pleura/Disease of the Pleura,Pneumothorax
+Pleural Disease/Disorders of the Pleura/Disease of the Pleura,Hemothorax
+Pleural Disease/Disorders of the Pleura/Disease of the Pleura,Fibrothorax/Pleural Fibrosis
+Pleural Disease/Disorders of the Pleura/Disease of the Pleura,Tumors of the Pleura/Pleural Neoplasms
+Tumors of the Pleura/Pleural Neoplasms,Mesothelioma
+Pulmonary Medicine,Mediastinal Disease/Disorders of the Mediastinum
+Mediastinal Disease/Disorders of the Mediastinum,Mediastinitis
+Mediastinal Disease/Disorders of the Mediastinum,Pneumomediastinum
+Mediastinal Disease/Disorders of the Mediastinum,Mediastinal Masses
+Mediastinal Masses,Thymic Tumors/Neoplasms/thymoma
+Mediastinal Masses,Primary Mediastinal Lymphoma
+Mediastinal Masses,Thyroid Tumors/Lesions
+Mediastinal Masses,Parathyroid Tumors/Lesions
+Mediastinal Masses,Lymph Node Enlargement
+Mediastinal Masses,Vascular Abnormalities/Vascular Lesions/Vascular Masses and Enlargements
+Mediastinal Masses,Cystic Lesions the Mediastinum
+Mediastinal Masses,Neurogenic Mediastinal Tumors
+Pulmonary Medicine,Airway Disease/Disease of the Airway/Disorders of the Airway (Obstructive Diseases)
+Airway Disease/Disease of the Airway/Disorders of the Airway (Obstructive Diseases),Asthma
+Airway Disease/Disease of the Airway/Disorders of the Airway (Obstructive Diseases),Bronchiectasis/Bronchial Abnormalities
+Bronchiectasis/Bronchial Abnormalities,Bronchiolithiasis
+Bronchiectasis/Bronchial Abnormalities,Bronchial Fistula
+Airway Disease/Disease of the Airway/Disorders of the Airway (Obstructive Diseases),Bronchiolitis
+Bronchiolitis,Bronchiolitis Obliterans
+Bronchiolitis Obliterans,Bronchiolitis Obliterans with Organizing Pneumonia (BOOP)
+Bronchiolitis,Respiratory Bronchiolitis
+Airway Disease/Disease of the Airway/Disorders of the Airway (Obstructive Diseases),Chronic Obstructive Pulmonary Disease
+Chronic Obstructive Pulmonary Disease,Bronchitis
+Chronic Obstructive Pulmonary Disease,Emphysema
+Airway Disease/Disease of the Airway/Disorders of the Airway (Obstructive Diseases),Cystic Fibrosis
+Airway Disease/Disease of the Airway/Disorders of the Airway (Obstructive Diseases),Obstructive Sleep Apnea
+Airway Disease/Disease of the Airway/Disorders of the Airway (Obstructive Diseases),Upper Airway Obstruction/Disorders of the Upper Airway
+Upper Airway Obstruction/Disorders of the Upper Airway,Acute Upper Airway Obstruction
+Upper Airway Obstruction/Disorders of the Upper Airway,Chronic Upper Airway Obstruction/Disorders
+Chronic Upper Airway Obstruction/Disorders,Rhinitis
+Chronic Upper Airway Obstruction/Disorders,Hypertrophy of Tonsils and Adenoid
+Chronic Upper Airway Obstruction/Disorders,Laryngeal Dysfunction/Vocal Cord Dysfunction
+Chronic Upper Airway Obstruction/Disorders,Tracheal Obstructions/Problems
+Tracheal Obstructions/Problems,Tracheal Stenosis
+Tracheal Obstructions/Problems,Tracheal Neoplasms
+Tracheal Obstructions/Problems,Relapsing Polychondritis
+Tracheal Obstructions/Problems,Tracheobronchopathia Osteochondroplastica
+Tracheal Obstructions/Problems,Tracheomalacia
+Tracheal Obstructions/Problems,Tracheobronchomegaly
+Pulmonary Medicine,Interstitial Lung Disease/Infiltrative Lung Disease/Diffuse Parenchymal Lung Disease/Immunologic Lung Disease
+Interstitial Lung Disease/Infiltrative Lung Disease/Diffuse Parenchymal Lung Disease/Immunologic Lung Disease,Idiopathic Pulmonary Fibrosis
+Interstitial Lung Disease/Infiltrative Lung Disease/Diffuse Parenchymal Lung Disease/Immunologic Lung Disease,Interstitial Pneumonia
+Interstitial Lung Disease/Infiltrative Lung Disease/Diffuse Parenchymal Lung Disease/Immunologic Lung Disease,Organizing Pneumonia/Brionchiolitis Obliterans Organizing Pneumonia
+Interstitial Lung Disease/Infiltrative Lung Disease/Diffuse Parenchymal Lung Disease/Immunologic Lung Disease,Connective Tissue Diseases
+Connective Tissue Diseases,Ankylosing Spondylitis
+Connective Tissue Diseases,Behcet's Disease/Syndrome
+Connective Tissue Diseases,Dermatomyositis and Polymyositis
+Connective Tissue Diseases,Marfan Syndrome
+Connective Tissue Diseases,Mixed Connective Tissue Diseases
+Connective Tissue Diseases,Relapsing Polychondritis
+Connective Tissue Diseases,Rheumatoid Arthritis/Rheumatoid Disease
+Connective Tissue Diseases,Sjorgen's Syndrome
+Connective Tissue Diseases,Systemic Lupus Erythematosus (SLE)
+Connective Tissue Diseases,Systemic Sclerosis/Scleroderma
+Connective Tissue Diseases,Tuberous Sclerosis
+Connective Tissue Diseases,Wegener's Granulomatosis
+Interstitial Lung Disease/Infiltrative Lung Disease/Diffuse Parenchymal Lung Disease/Immunologic Lung Disease,Sarcoidosis
+Interstitial Lung Disease/Infiltrative Lung Disease/Diffuse Parenchymal Lung Disease/Immunologic Lung Disease,Eosinophilic Lung Disease
+Interstitial Lung Disease/Infiltrative Lung Disease/Diffuse Parenchymal Lung Disease/Immunologic Lung Disease,Pulmonary Lymphangioleiomyomatosis/Lymphangiomyomatosis/lymphangioleiomyomatosis
+Interstitial Lung Disease/Infiltrative Lung Disease/Diffuse Parenchymal Lung Disease/Immunologic Lung Disease,Pulmonary Alveolar Proteinosis
+Interstitial Lung Disease/Infiltrative Lung Disease/Diffuse Parenchymal Lung Disease/Immunologic Lung Disease,Neurofibromatosis
+Interstitial Lung Disease/Infiltrative Lung Disease/Diffuse Parenchymal Lung Disease/Immunologic Lung Disease,Pulmonary Hemorrhage/Diffuse Alveolar Hemorrhage
+Pulmonary Hemorrhage/Diffuse Alveolar Hemorrhage,Drug-induced Alveolar Hemorrhage
+Pulmonary Hemorrhage/Diffuse Alveolar Hemorrhage,Idiopathic Pulmonary Hemosiderosis
+Pulmonary Hemorrhage/Diffuse Alveolar Hemorrhage,Isolated Pulmonary Capillaritis
+Interstitial Lung Disease/Infiltrative Lung Disease/Diffuse Parenchymal Lung Disease/Immunologic Lung Disease,Immunologic Lung Diseases
+Immunologic Lung Diseases,Extrinsic Allergic Alveolitis/Hypersensitivity Pneumonitis (synon terms)
+Immunologic Lung Diseases,Mixed Connective Tissue Diseases
+Immunologic Lung Diseases,Behcet's Disease/Syndrome
+Immunologic Lung Diseases,Rheumatoid Arthritis/Rheumatoid Disease
+Immunologic Lung Diseases,Sjorgen's Syndrome
+Immunologic Lung Diseases,Systemic Lupus Erythematosus (SLE)
+Immunologic Lung Diseases,Systemic Sclerosis/Scleroderma
+Immunologic Lung Diseases,Glomerulonephritis
+Immunologic Lung Diseases,Goodpasture's Syndrome
+Immunologic Lung Diseases,Henoch-Schoenlein Purpura
+Immunologic Lung Diseases,Lymphangiomatosis
+Immunologic Lung Diseases,Microscopic Polyangiitis
+Pulmonary Medicine,Disorders of Pulmonary Circulation/Disorders of Pulmonary Vasculature
+Disorders of Pulmonary Circulation/Disorders of Pulmonary Vasculature,Diseases of Pulmonary Vasculature
+Diseases of Pulmonary Vasculature,Vascular Varicosities
+Diseases of Pulmonary Vasculature,Pulmonary Artery Aneurysms
+Disorders of Pulmonary Circulation/Disorders of Pulmonary Vasculature,Pulmonary Vascular Malformations
+Disorders of Pulmonary Circulation/Disorders of Pulmonary Vasculature,Pulmonary Edema
+Disorders of Pulmonary Circulation/Disorders of Pulmonary Vasculature,Pulmonary Embolism
+Pulmonary Embolism,Pulmonary Thromboembolism
+Disorders of Pulmonary Circulation/Disorders of Pulmonary Vasculature,Pulmonary Vasculitis
+Pulmonary Vasculitis,Small Vessel Vasculitis
+Small Vessel Vasculitis,Wegener's Granulomatosis
+Small Vessel Vasculitis,Churg-Strauss Syndrome
+Small Vessel Vasculitis,Microscopic Polyangiitis
+Small Vessel Vasculitis,Polyarteriitis Nodosa
+Pulmonary Vasculitis,Medium Vessel Vasculitis
+Medium Vessel Vasculitis,Behcet's Syndrome
+Medium Vessel Vasculitis,Necrotizing Sarcoid Granulomatosis
+Pulmonary Vasculitis,Large Vessel Vasculitis
+Large Vessel Vasculitis,Giant Cell Arteriitis
+Large Vessel Vasculitis,Takayasu's Disease/Arteriitis
+Disorders of Pulmonary Circulation/Disorders of Pulmonary Vasculature,Pulmonary Hypertension
+Pulmonary Hypertension,Pulmonary Arterial Hypertension/Primary Pulmonary Hypertension
+Pulmonary Hypertension,Secondary Pulmonary Hypertension
+Pulmonary Hypertension,Cor Pulmonale
+Pulmonary Medicine,Disorders of Ventilatory Control/Disease of Alveolar Space/Disorders in Control of Breathing/Hypo- and Hyper- Ventilation
+Disorders of Ventilatory Control/Disease of Alveolar Space/Disorders in Control of Breathing/Hypo- and Hyper- Ventilation,Alveolar Hyperventilation (Syndromes)
+Alveolar Hyperventilation (Syndromes),Pulmonary Disease associated Hyperventilation
+Alveolar Hyperventilation (Syndromes),Psychogenic Hyperventilation
+Alveolar Hyperventilation (Syndromes),Neurologic/Central Nervous System Disorders
+Alveolar Hyperventilation (Syndromes),Drug-Induced Hyperventilation
+Alveolar Hyperventilation (Syndromes),Cardiovascular related Hyperventilation
+Disorders of Ventilatory Control/Disease of Alveolar Space/Disorders in Control of Breathing/Hypo- and Hyper- Ventilation,Alveolar Hypoventilation
+Alveolar Hypoventilation,Primary Alveolar Hypoventilation
+Alveolar Hypoventilation,Chronic Alveolar Hypoventilation
+Alveolar Hypoventilation,Acidosis/hypercapnia
+Pulmonary Medicine,Respiratory Failure
+Respiratory Failure,Chronic Respiratory Failure
+Respiratory Failure,Acute Hypoxemic Respiratory Failure
+Acute Hypoxemic Respiratory Failure,Acute Respiratory Distress Syndrome (ARDS)/prev. known as Adult Respiratory Distress Syndrome
+Respiratory Failure,Acute Ventilatory Failure
+Pulmonary Medicine,Environmental and Occupational Lung Diseases
+Environmental and Occupational Lung Diseases,Environmental and Occupational Lung Disorders
+Environmental and Occupational Lung Disorders,Pneumoconiosis
+Pneumoconiosis,Silicosis
+Pneumoconiosis,Asbestosis
+Environmental and Occupational Lung Disorders,Extrinsic Allergic Alveolitis/Hypersensitivity Pneumonitis (synon terms)
+Environmental and Occupational Lung Disorders,Occupational Asthma
+Environmental and Occupational Lung Disorders,"Pulmonary Disease caused by Drugs, Toxins, Irradiation/ Drug-Induced Pulmonary Disease/ Pulmonary Toxicity"
+Environmental and Occupational Lung Disorders,"Pulmonary Disease caused by High Altitude, Diving"
+Environmental and Occupational Lung Disorders,"Foreign Body Inhalation/(Solid, Gas, or Liquid)"
+Pulmonary Medicine,Lung Transplantation
+Lung Transplantation,Unilateral Lung Transplantation
+Lung Transplantation,Bilateral Lung Transplantation
+Lung Transplantation,Heart-Lung Transplantation
+Lung Transplantation,Living Donor Lobe Transplantation
+Lung Transplantation,Pre and Post Transplant Management
+Lung Transplantation,Lung Transplant Complications
+Lung Transplant Complications,Post Transplant Lung Infections
+Lung Transplant Complications,Primary Disease Recurrence
+Lung Transplant Complications,Allograft Rejection
+Pulmonary Medicine,Extrapulmonary Disorders Effecting Pulmonary Complications
+Extrapulmonary Disorders Effecting Pulmonary Complications,Gastroesophageal Reflux Disease (GERD)
+Extrapulmonary Disorders Effecting Pulmonary Complications,Pulmonary Manifestations/Complications of HIV Infection
+Pulmonary Manifestations/Complications of HIV Infection,Infectious Complications
+Infectious Complications,tuberculosis
+Infectious Complications,pneumocystis carinii/pneumocystis jirovecii
+Pulmonary Manifestations/Complications of HIV Infection,Non-infectious Complications
+Non-infectious Complications,Pulmonary Neoplasms
+Pulmonary Neoplasms,Kaposi's Sarcoma
+Pulmonary Neoplasms,Non-Hodgkin's Lymphoma
+Pulmonary Neoplasms,Bronchogenic/Pulmonary Carcinoma
+Non-infectious Complications,Interstitial Pneumonitis
+Non-infectious Complications,Pulmonary Hypertension
+Extrapulmonary Disorders Effecting Pulmonary Complications,Pulmonary Complications due to Transplantation
+Pulmonary Complications due to Transplantation,Bone Marrow and Stem Cell Transplantation
+Bone Marrow and Stem Cell Transplantation,Engraftment Syndrome/Graft vs Host Disease
+Extrapulmonary Disorders Effecting Pulmonary Complications,Pulmonary Complications of Primary Immunodeficiencies/Immune-compromised host
+Extrapulmonary Disorders Effecting Pulmonary Complications,Neuromuscular Diseases Affecting Respiratory Function
+Neuromuscular Diseases Affecting Respiratory Function,Spinal Cord Disorders/Injuries
+Spinal Cord Disorders/Injuries,poliomyelitis
+poliomyelitis,Post-polio syndrome (PPS)
+Spinal Cord Disorders/Injuries,ALS (Amyotrophic Lateral Sclerosis)
+Neuromuscular Diseases Affecting Respiratory Function,Peripheral Nerve Disorders/Injuries
+Peripheral Nerve Disorders/Injuries,Acute Inflammatory Polyneuropathy (Landry-Guillain-Barre-Strohl Syndrome)
+Peripheral Nerve Disorders/Injuries,Neurotoxins
+Peripheral Nerve Disorders/Injuries,Myasthenia Gravis
+Neuromuscular Diseases Affecting Respiratory Function,Respiratory Muscle Disorders/Injuries/Myopathies
+Respiratory Muscle Disorders/Injuries/Myopathies,Respiratory Muscle Paralysis/Fatigue
+Respiratory Muscle Disorders/Injuries/Myopathies,Muscular dystrophies
+Respiratory Muscle Disorders/Injuries/Myopathies,Inapropriate Muscle Contractions
+Inapropriate Muscle Contractions,Respiratory Myoclonus/Leeuwenhock's disease
+Inapropriate Muscle Contractions,Parkinson's Disease
+Inapropriate Muscle Contractions,Thomsen's disease (Myotonia Congenita)
+Inapropriate Muscle Contractions,Convulsive Disorders
+Extrapulmonary Disorders Effecting Pulmonary Complications,Respiratory Manifestations/Complications of Metabolic Disease
+Respiratory Manifestations/Complications of Metabolic Disease,Obesity
+Respiratory Manifestations/Complications of Metabolic Disease,Malnutrition
+Respiratory Manifestations/Complications of Metabolic Disease,Endocrine Disease
+Endocrine Disease,Diabetes Mellitus
+Endocrine Disease,Thyroid Diseases
+Thyroid Diseases,Goiter
+Thyroid Diseases,Hyperthyroidism
+Thyroid Diseases,Hypothyroidism
+Endocrine Disease,Parathyroid Diseases
+Parathyroid Diseases,Hyperparathyroidism
+Hyperparathyroidism,hypercalcemia/metastatic Calcification of the lungs
+Endocrine Disease,Acromegaly
+Pulmonary Medicine,Traumatic Chest Injury/Disease of the Diaphragm and Chest Wall
+Traumatic Chest Injury/Disease of the Diaphragm and Chest Wall,Chest Wall Injuries and Diseases
+Chest Wall Injuries and Diseases,Ankylosing Spondylitis
+Chest Wall Injuries and Diseases,Diaphragmatic Injury
+Diaphragmatic Injury,Diaphragmatic Hernia
+Chest Wall Injuries and Diseases,Flail Chest
+Chest Wall Injuries and Diseases,Kyphosis
+Chest Wall Injuries and Diseases,Obesity
+Chest Wall Injuries and Diseases,Pectus Excavatum
+Chest Wall Injuries and Diseases,Scoliosis
+Chest Wall Injuries and Diseases,Thoracoplasty
+Traumatic Chest Injury/Disease of the Diaphragm and Chest Wall,Pleural Injuries
+Traumatic Chest Injury/Disease of the Diaphragm and Chest Wall,Pulmonary Injuries
+Traumatic Chest Injury/Disease of the Diaphragm and Chest Wall,Mediastinal Injuries
+Mediastinal Injuries,Aortic Rupture
+Mediastinal Injuries,Tracheobronchial Injuries
+Mediastinal Injuries,Myocardial Contusion
+Mediastinal Injuries,Esophageal Injuries
+Pulmonary Medicine,Tests and Procedures in Pulmonary Medicine
+Tests and Procedures in Pulmonary Medicine,Pulmonary Radiology
+Pulmonary Radiology,Endobronchial Ultrasound
+Endobronchial Ultrasound,TBNA - Transbronchial Needle Aspiration
+Tests and Procedures in Pulmonary Medicine,Bronchoscopy
+Bronchoscopy,Therapeutic Bronchoscopy
+Therapeutic Bronchoscopy,Airway Stents
+Therapeutic Bronchoscopy,Brachytherapy
+Therapeutic Bronchoscopy,Photodynamic therapy
+Therapeutic Bronchoscopy,Laser Therapy
+Therapeutic Bronchoscopy,Electrocautery and Argon Plasma Coagulation
+Therapeutic Bronchoscopy,Cryotherapy
+Tests and Procedures in Pulmonary Medicine,Pleuroscopy (Medical Thoracoscopy)
+Tests and Procedures in Pulmonary Medicine,Hyperbaric Therapy
+Tests and Procedures in Pulmonary Medicine,Video-Assisted Thoracic Surgery (VATS) (Surgical Thoracoscopy)
+Tests and Procedures in Pulmonary Medicine,Lung lavage
+Tests and Procedures in Pulmonary Medicine,Lung Biopsy
+Lung Biopsy,Bronchoscopic Lung Biopsy
+Lung Biopsy,Percutaneous Lung biopsy
+Tests and Procedures in Pulmonary Medicine,Mediastinoscopy
+Tests and Procedures in Pulmonary Medicine,Mechanical Ventilation
+Mechanical Ventilation,High Frequency Ventilation (lung protection)
+Mechanical Ventilation,Ventilator Weaning
+Tests and Procedures in Pulmonary Medicine,Pulmonary Rehabilitation
+Tests and Procedures in Pulmonary Medicine,Pulmonary Surgery
+Pulmonary Surgery,Lung Transplantation
+Lung Transplantation,Single Lung Transplantation
+Lung Transplantation,Bilateral Lung Transplantation
+Lung Transplantation,Heart-Lung Transplantation
+Pulmonary Surgery,Lung Volume Reduction Surgery
+Pulmonary Surgery,Lobectomy

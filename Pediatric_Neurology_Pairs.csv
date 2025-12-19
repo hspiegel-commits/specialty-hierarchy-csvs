@@ -1,0 +1,322 @@
+parent,child
+Cerebrovascular Disorders,Pediatric Stroke
+Pediatric Stroke,Ischemic Stroke
+Ischemic Stroke,Arterial Ischemic Stroke
+Pediatric Stroke,Hemorrhagic Stroke
+Hemorrhagic Stroke,Intracranial Hemorrhage
+Intracranial Hemorrhage,Subarachnoid Hemorrhage
+Pediatric Stroke,Cerebral Sinovenous Thrombosis (CSVT)
+Pediatric Stroke,Perinatal Stroke
+Cerebrovascular Disorders,Venous Thromboembolism
+Venous Thromboembolism,Pulmonary Embolism
+Venous Thromboembolism,Deep Vein Thrombosis (DVT)
+Cerebrovascular Disorders,Vascular Abnormalities/Vasculopathies
+Vascular Abnormalities/Vasculopathies,Aneurysms
+Vascular Abnormalities/Vasculopathies,Moyamoya Disease
+Vascular Abnormalities/Vasculopathies,Cerebral Sinovenous Thrombosis (CSVT)
+Vascular Abnormalities/Vasculopathies,Central Nervous System Vasculitis
+Vascular Abnormalities/Vasculopathies,Vascular Anomalies
+Vascular Anomalies,Vascular Tumors
+Vascular Tumors,Hemangiomas
+Hemangiomas,Infantile Hemangiomas
+Hemangiomas,Congenital Hemangiomas
+Vascular Anomalies,Vascular Malformations
+Vascular Malformations,Arteriovenous Malformations (AVMs)
+Vascular Malformations,Cavernous Malformations
+Vascular Malformations,Vein of Galen Malformations (VOGM)
+Vascular Malformations,Capillary Telangiectasia
+Vascular Malformations,Complex Combined Malformations
+Complex Combined Malformations,Sturge-Weber Syndrome
+Cerebrovascular Disorders,Idiopathic Intracranial Hypertension
+Neuro-Infectious Disease,Acute Flaccid Myelitis
+Neuro-Immunology,Demyelinating Disease
+Demyelinating Disease,Multiple Sclerosis (MS)
+Multiple Sclerosis (MS),Relapsing-Remitting MS
+Multiple Sclerosis (MS),Secondary Progressive MS
+Multiple Sclerosis (MS),Primary Progressive MS
+Multiple Sclerosis (MS),Progressive-Relapsing MS
+Demyelinating Disease,Neuromyelitis Optica (NMO)
+Demyelinating Disease,Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease (MOGAD)
+Demyelinating Disease,Transverse Myelitis
+Demyelinating Disease,Leukoencephalopathies
+Leukoencephalopathies,Alexander Disease
+Leukoencephalopathies,Multifocal Leukoencephalopathy
+Neuro-Immunology,Autoimmune Encephalitis
+Autoimmune Encephalitis,Acute Disseminated Encephalomyelitis (ADEM)
+Autoimmune Encephalitis,Anti-N-Methyl-D-Aspartate Receptor (NMDAR) Encephalitis
+Autoimmune Encephalitis,Limbic Encephalitis
+Neuro-Immunology,Autoimmune Neuromuscular Disorders
+Autoimmune Neuromuscular Disorders,Myasthenia Gravis
+Autoimmune Neuromuscular Disorders,Lambert-Eaton Myasthenic Syndrome
+Autoimmune Neuromuscular Disorders,Guillain-Barre Syndrome
+Autoimmune Neuromuscular Disorders,Stiff Person Syndrome
+Neuro-Immunology,Neuro-Inflammatory Disorders
+Neuro-Inflammatory Disorders,Central Nervous System Vasculitis
+Neuro-Inflammatory Disorders,Neurosarcoidosis
+Neuro-Inflammatory Disorders,Behcet's Disease
+Neuro-Immunology,Autoimmune Endotheliopathy
+Autoimmune Endotheliopathy,Susac Syndrome
+Neuro-Immunology,Autoimmune Autonomic Disorders
+Autoimmune Autonomic Disorders,Autoimmune Autonomic Ganglionopathy
+Neuro-Immunology,Paraneoplastic Neurological Disorders
+Paraneoplastic Neurological Disorders,Opsoclonus-Myoclonus-Ataxia Syndrome
+Neuro-Immunology,Multisystem Diseases
+Multisystem Diseases,Chronic Fatigue Syndrome/Myalgic Encephalomyelitis
+Neurodevelopmental and Behavioral Disorders,Cerebral Palsy (CP)
+Cerebral Palsy (CP),Spastic Cerebral Palsy
+Cerebral Palsy (CP),Dyskinetic Cerebral Palsy
+Cerebral Palsy (CP),Ataxic Cerebral Palsy
+Cerebral Palsy (CP),Mixed Types CP
+Neurodevelopmental and Behavioral Disorders,Malformations of Cortical Development
+Malformations of Cortical Development,Focal Cortical Dysplasia
+Malformations of Cortical Development,Hemimegalencephaly
+Malformations of Cortical Development,Tuberous Sclerosis Complex
+Neurodevelopmental and Behavioral Disorders,Developmental Encephalopathies
+Developmental Encephalopathies,Rett Syndrome
+Developmental Encephalopathies,MECP2 Duplication Disorder
+Developmental Encephalopathies,CDKL5 Deficiency Disorder
+Developmental Encephalopathies,FOXG1 Disorder
+Neurodevelopmental and Behavioral Disorders,Autism Spectrum Disorder (ASD)
+Neurodevelopmental and Behavioral Disorders,Fragile X Syndrome
+Neurodevelopmental and Behavioral Disorders,Attention Deficit Hyperactivity Disorder (ADHD)
+Neurodevelopmental and Behavioral Disorders,Pervasive Developmental Disorder-Not Otherwise Specified(PDD-NOS)
+Neurodevelopmental and Behavioral Disorders,Intellectual Disabilities
+Neurodevelopmental and Behavioral Disorders,Developmental Coordination Disorders/Dyspraxia
+Neurodevelopmental and Behavioral Disorders,Learning Disabilities
+Learning Disabilities,Dyslexia
+Learning Disabilities,Dyscalculia
+Learning Disabilities,Dysgraphia
+Neurodevelopmental and Behavioral Disorders,Communication Disorders
+Neurodevelopmental and Behavioral Disorders,Conduct Disorders
+Neurodevelopmental and Behavioral Disorders,Down Syndrome
+Neurodevelopmental and Behavioral Disorders,Fetal Alcohol Syndrome
+Pediatric Epilepsy and Seizures,Focal Epilepsy
+Focal Epilepsy,Frontal Lobe Epilepsy
+Focal Epilepsy,Idiopathic Location-Related Epilepsies (ILRE)
+Focal Epilepsy,Occipital Lobe Epilepsy
+Focal Epilepsy,Parietal Lobe Epilepsy
+Focal Epilepsy,Temporal Lobe Epilepsy
+Pediatric Epilepsy and Seizures,Focal Seizures
+Focal Seizures,Focal Onset Aware Seizure
+Focal Seizures,Focal Onset Impaired Awareness
+Pediatric Epilepsy and Seizures,Generalized Seizures
+Generalized Seizures,Absence Seizures
+Generalized Seizures,Tonic-Clonic Seizures
+Generalized Seizures,Myoclonic Seizures
+Generalized Seizures,Atonic Seizures
+Pediatric Epilepsy and Seizures,Epileptic Syndromes
+Epileptic Syndromes,Benign Rolandic Epilepsy
+Epileptic Syndromes,Febrile Infection-Related Epilepsy Syndrome (FIRES)
+Epileptic Syndromes,Otahara Syndrome
+Epileptic Syndromes,Landau-Kleffner Syndrome
+Epileptic Syndromes,Rasmussen Syndrome
+Epileptic Syndromes,Angelman Syndrome
+Epileptic Syndromes,Childhood Absence Epilepsy
+Epileptic Syndromes,Juvenile Absence Epilepsy
+Epileptic Syndromes,Juvenile Myoclonic Epilepsy
+Epileptic Syndromes,Dravet Syndrome
+Epileptic Syndromes,Developmental and Epileptic Encephalopathies
+Epileptic Syndromes,Infantile Epileptic Spasms Syndrome (West Syndrome)
+Epileptic Syndromes,Lennox-Gastaut Syndrome
+Epileptic Syndromes,Progressive Myoclonic Epilepsy
+Pediatric Neuro-Oncology,Central Nervous System Metastases
+Central Nervous System Metastases,Metastatic Brain Tumors
+Pediatric Neuro-Oncology,Central Nervous System Tumors
+Central Nervous System Tumors,Primary CNS Lymphoma
+Central Nervous System Tumors,Primary Brain Tumors
+Primary Brain Tumors,Posterior Fossa Tumors
+Posterior Fossa Tumors,Medulloblastoma
+Posterior Fossa Tumors,Pilocytic Astrocytoma
+Posterior Fossa Tumors,Ependymoma
+Posterior Fossa Tumors,Brainstem Glioma
+Posterior Fossa Tumors,Atypical Teratoid Rhabdoid Tumor
+Primary Brain Tumors,Embryonal Tumors
+Embryonal Tumors,Medulloblastoma
+Embryonal Tumors,Atypical Teratoid/Rhabdoid Tumor
+Embryonal Tumors,Central Nervous System Primitive Neuroectodermal Tumors (CNS-PNETS)
+Central Nervous System Primitive Neuroectodermal Tumors (CNS-PNETS),Neuroblastoma
+Central Nervous System Primitive Neuroectodermal Tumors (CNS-PNETS),Ganglioneuroblastoma
+Central Nervous System Primitive Neuroectodermal Tumors (CNS-PNETS),Medulloepithelioma
+Central Nervous System Primitive Neuroectodermal Tumors (CNS-PNETS),Ependymoblastoma
+Primary Brain Tumors,Ependymomas
+Primary Brain Tumors,Gliomas
+Gliomas,Low-grade Glioma
+Low-grade Glioma,Astrocytoma
+Low-grade Glioma,Mixed Oligoastrocytomas
+Low-grade Glioma,Oligodendroglioma
+Gliomas,High-grade Glioma
+High-grade Glioma,Anaplastic Astrocytoma
+High-grade Glioma,Anaplastic Oligodendroglioma
+High-grade Glioma,Glioblastoma
+Primary Brain Tumors,Meningiomas
+Pediatric Neuromuscular Disorders,Myopathies
+Myopathies,Channelopathies
+Channelopathies,Andersen-Tawil Syndrome (ATS)
+Myopathies,Muscular Dystrophies
+Muscular Dystrophies,Myotonic Dystrophies
+Myotonic Dystrophies,Myotonic Dystrophy Type I (DMI)
+Myotonic Dystrophies,Myotonic Dystrophy Type II (DMII)
+Muscular Dystrophies,Limb-Girdle Muscular Dystrophy
+Muscular Dystrophies,Facioscapulohumeral Muscular Dystrophy (FSHD)
+Muscular Dystrophies,Congenital Muscular Dystrophies
+Congenital Muscular Dystrophies,Duchenne Muscular Dystrophy
+Congenital Muscular Dystrophies,Becker Muscular Dystrophy
+Congenital Muscular Dystrophies,Bethlem Myopathy
+Congenital Muscular Dystrophies,Emery-Dreifuss Muscular Dystrophy
+Muscular Dystrophies,Oculopharyngeal Muscular Dystrophy
+Myopathies,Idiopathic Inflammatory Myopathies
+Idiopathic Inflammatory Myopathies,"Myositis (Polymyositis, Dermatomyositis)"
+Idiopathic Inflammatory Myopathies,Inclusion Body Myositis
+Myopathies,Metabolic Myopathies
+Metabolic Myopathies,Phosphofructokinase Deficiency
+Metabolic Myopathies,Pompe Disease
+Pediatric Neuromuscular Disorders,Peripheral Nerve Disorders
+Peripheral Nerve Disorders,Peripheral Neuropathies
+Peripheral Neuropathies,Inherited Peripheral Neuropathies
+Inherited Peripheral Neuropathies,Charcot-Marie-Tooth Disease
+Inherited Peripheral Neuropathies,Hereditary Sensory and Autonomic Neuropathies
+Inherited Peripheral Neuropathies,Familial Amyloid Polyneuropathy
+Familial Amyloid Polyneuropathy,Hereditary ATTR Amyloidosis
+Inherited Peripheral Neuropathies,Inherited Metabolic Neuropathies
+Peripheral Neuropathies,Acquired Peripheral Neuropathies
+Acquired Peripheral Neuropathies,Diabetic Neuropathy
+Acquired Peripheral Neuropathies,Mononeuropathy
+Acquired Peripheral Neuropathies,Toxic Neuropathies
+Toxic Neuropathies,Nitrous Oxide Toxicity
+Acquired Peripheral Neuropathies,Nutritional Neuropathies
+Acquired Peripheral Neuropathies,Small Fiber Neuropathy
+Peripheral Neuropathies,Immune-Mediated Neuropathy
+Immune-Mediated Neuropathy,Guillain-Barré Syndrome
+Immune-Mediated Neuropathy,Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)
+Immune-Mediated Neuropathy,Monoclonal Gammopathy-Associated Neuropathy
+Immune-Mediated Neuropathy,Multifocal Motor Neuropathy
+Peripheral Neuropathies,Paraproteinemic Neuropathies
+Peripheral Neuropathies,Congenital and Early Infantile Neuropathies
+Peripheral Neuropathies,Pinched Nerve/Radiculoneuropathy
+Pediatric Neuromuscular Disorders,Neuromuscular Junction Disorders
+Neuromuscular Junction Disorders,Congenital Myasthenic Syndrome
+Neuromuscular Junction Disorders,Juvenile and Neonatal Myasthenia Gravis
+Neuromuscular Junction Disorders,Acquired Neuromuscular Junction Disorders
+Acquired Neuromuscular Junction Disorders,Infant Botulism
+Acquired Neuromuscular Junction Disorders,Lambert-Eaton Myasthenic Syndrome
+Pediatric Neuromuscular Disorders,Motor Neuron Diseases
+Motor Neuron Diseases,Juvenile Amyotrophic Lateral Sclerosis
+Motor Neuron Diseases,Spinal Muscular Atrophy
+Motor Neuron Diseases,Stiff Man Syndrome in Children and Adolescents
+Motor Neuron Diseases,Infectious/Acquired Motor Neuron Disease
+Infectious/Acquired Motor Neuron Disease,Infantile Poliomyelitis
+Pediatric Neuromuscular Disorders,Infantile Hypotonia and Arthrogryposis
+Infantile Hypotonia and Arthrogryposis,Neonatal Hypotonia
+Infantile Hypotonia and Arthrogryposis,Arthrogryposis Multiplex Congenita (AMC)
+Pediatric Movement Disorders,Cerebral Palsy
+Pediatric Movement Disorders,Peroxysmal Movement Disorders
+Peroxysmal Movement Disorders,Tics and Tourette Syndrome
+Peroxysmal Movement Disorders,Motor Stereotypies
+Peroxysmal Movement Disorders,Peroxysmal Dyskinesias
+Pediatric Movement Disorders,Hyperkinetic and Hypokinetic Movement Disorders
+Hyperkinetic and Hypokinetic Movement Disorders,Chorea
+Hyperkinetic and Hypokinetic Movement Disorders,Dystonia
+Hyperkinetic and Hypokinetic Movement Disorders,Myoclonus
+Hyperkinetic and Hypokinetic Movement Disorders,Tremor
+Hyperkinetic and Hypokinetic Movement Disorders,Ataxia
+Hyperkinetic and Hypokinetic Movement Disorders,Parkinsonism
+Hyperkinetic and Hypokinetic Movement Disorders,Hereditary Spastic Paraplegia
+Neurogenetic Disorders,Neurodevelopmental Defects/Disorders
+Neurodevelopmental Defects/Disorders,Developmental Encephalopathies
+Developmental Encephalopathies,Rett Syndrome
+Developmental Encephalopathies,MECP2 Duplication Disorder
+Developmental Encephalopathies,CDKL5 Deficiency Disorder
+Developmental Encephalopathies,FOXG1 Disorder
+Neurodevelopmental Defects/Disorders,Fragile X Syndrome
+Neurodevelopmental Defects/Disorders,CHARGE Syndrome
+Neurodevelopmental Defects/Disorders,Chromosomal Disorders
+Chromosomal Disorders,Down Syndrome/Trisomy 21
+Chromosomal Disorders,Turner Syndrome
+Chromosomal Disorders,DiGeorge Syndrome
+Chromosomal Disorders,Angelman Syndrome
+Neurodevelopmental Defects/Disorders,Schinzel-Giedion Syndrome
+Neurodevelopmental Defects/Disorders,Wiedemann-Steiner Syndrome
+Neurodevelopmental Defects/Disorders,Lesch Nyhon Syndrome
+Neurogenetic Disorders,Progressive Childhood Neurodegenerative Disorders
+Progressive Childhood Neurodegenerative Disorders,Juvenile Huntington's Disease
+Progressive Childhood Neurodegenerative Disorders,Ataxia Telangiectasia
+Progressive Childhood Neurodegenerative Disorders,Spinocerebellar Ataxia
+Neurogenetic Disorders,Neurometabolic Disorders
+Neurometabolic Disorders,Leukodystrophies
+Neurometabolic Disorders,Mitochondrial Disorders
+Mitochondrial Disorders,"MELAS (Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like episodes)"
+Mitochondrial Disorders,Leigh Syndrome
+Neurometabolic Disorders,Peroxisomal Disorders
+Peroxisomal Disorders,Adrenoleukodystrophies
+Neurometabolic Disorders,Lysosomal Storage Diseases
+Lysosomal Storage Diseases,Gaucher's Disease
+Lysosomal Storage Diseases,Tay-Sachs Disease
+Lysosomal Storage Diseases,Fabry Disease
+Lysosomal Storage Diseases,Hurler Syndrome
+Lysosomal Storage Diseases,Glycogen Storage Disease
+Glycogen Storage Disease,Pompe Disease
+Lysosomal Storage Diseases,"Niemann-Pick Disease A, B, and C"
+Lysosomal Storage Diseases,"Mucolipidosis (Types I, II, III, IV)"
+Neurometabolic Disorders,Wilson's Disease
+Neurogenetic Disorders,Genetic Neuromuscular Disorders
+Genetic Neuromuscular Disorders,Inherited Peripheral Neuropathies
+Inherited Peripheral Neuropathies,Charcot-Marie-Tooth Disease
+Inherited Peripheral Neuropathies,Hereditary Sensory and Autonomic Neuropathies
+Genetic Neuromuscular Disorders,Congenital Muscular Dystrophies
+Congenital Muscular Dystrophies,Duchenne Muscular Dystrophy
+Congenital Muscular Dystrophies,Becker Muscular Dystrophy
+Congenital Muscular Dystrophies,Bethlem Myopathy
+Congenital Muscular Dystrophies,Emery-Dreifuss Muscular Dystrophy
+Genetic Neuromuscular Disorders,Congenital Myasthenic Syndrome
+Neurogenetic Disorders,Neurocutaneous Disorders
+Neurocutaneous Disorders,Neurofibromatosis (NF)
+Neurofibromatosis (NF),NF1
+Neurofibromatosis (NF),NF2
+Neurofibromatosis (NF),Schwannomatosis
+Neurocutaneous Disorders,Sturge-Weber Disease
+Neurocutaneous Disorders,Tuberous Sclerosis Complex
+Tuberous Sclerosis Complex,Epilepsy
+Pediatric Sleep Disorders,Infant Sleep Disorders
+Infant Sleep Disorders,Apnea of Infancy
+Infant Sleep Disorders,Sudden Infant Death Syndrome (SIDS)
+Pediatric Sleep Disorders,Pediatric Hypersomnia
+Pediatric Sleep Disorders,Pediatric Insomnia
+Pediatric Sleep Disorders,Childhood Obstructive Sleep Apnea
+Pediatric Sleep Disorders,Childhood Parasomnias
+Childhood Parasomnias,Sleepwalking
+Childhood Parasomnias,Confusional Arousals
+Childhood Parasomnias,Sleep Terrors
+Childhood Parasomnias,Nightmares
+Pediatric Sleep Disorders,Circadian Rhythm Disorders
+Circadian Rhythm Disorders,Delayed Sleep Phase Disorder
+Pediatric Sleep Disorders,Sleep Related Movement Disorders
+Sleep Related Movement Disorders,Restless Legs Syndrome
+Neonatal Neurology,Brain Malformations
+Neonatal Neurology,Congenital Infections
+Neonatal Neurology,Hypoxic-Ischemic Brain Injury
+Neonatal Neurology,Newborn Stroke
+Neonatal Neurology,Newborn Seizures
+Neonatal Neurology,Hydrocephalus
+Neonatal Neurology,Meningitis
+Neonatal Neurology,Encephalitis
+Neuro-Ophthalmology,Congenital and Infant Blindness
+Neuro-Ophthalmology,Congenital Optic Disc Anomalies
+Neuro-Ophthalmology,Childhood Optic Atrophy
+Neuro-Ophthalmology,Childhood Visual Loss and Acquired Blindness
+Neuro-Ophthalmology,Childhood Oculomotor Disorders
+Childhood Oculomotor Disorders,Strabismus
+Childhood Oculomotor Disorders,Nystagmus
+Neuro-Ophthalmology,Neuro-Ophthalmologic Manifestions of Pediatric Systemic Disease
+Neuro-Intensive/Neuro-Critical Care,Pediatric Stroke
+Neuro-Intensive/Neuro-Critical Care,Subarachnoid Hemorrhage
+Neuro-Intensive/Neuro-Critical Care,Disorders of Consciousness
+Disorders of Consciousness,Coma
+Disorders of Consciousness,Vegetative State
+Disorders of Consciousness,Minimally Conscious State
+Neuro-Intensive/Neuro-Critical Care,Brain Death
+Neuro-Intensive/Neuro-Critical Care,Traumatic Brain Injury (TBI)
+Neuro-Intensive/Neuro-Critical Care,Traumatic Spinal Cord Injury
+Pediatric Autonomic Disorders,Familial Dysautonomia
+Pediatric Autonomic Disorders,Orthostatic Intolerance
+Orthostatic Intolerance,Postural Tachycardia Syndrome (POTS)
+Pediatric Autonomic Disorders,Vasovagal Syncope

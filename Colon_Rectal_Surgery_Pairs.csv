@@ -1,0 +1,64 @@
+parent,child
+Neoplastic Disease,Colon Polyps
+Neoplastic Disease,Colon and Rectal Cancer
+Colon and Rectal Cancer,Colon Cancer
+Colon and Rectal Cancer,Rectal Cancer
+Colon and Rectal Cancer,Colorectal Carcinoma
+Colon and Rectal Cancer,Hereditary Colorectal Cancer
+Hereditary Colorectal Cancer,Hereditary Non-polyposis Colorectal Cancer (HNPCC)
+Hereditary Non-polyposis Colorectal Cancer (HNPCC),Lynch Syndrome
+Hereditary Colorectal Cancer,Hereditary Polyposis Colorectal Cancer (HPCC)
+Hereditary Polyposis Colorectal Cancer (HPCC),Adenomatous Polyposis Syndromes
+Adenomatous Polyposis Syndromes,Familial Adenomatous Polyposis
+Familial Adenomatous Polyposis,Gardner Syndrome
+Neoplastic Disease,Anal Cancer
+Benign Colorectal Disease/Conditions,Fistulaes
+Fistulaes,Fistula Repair
+Fistula Repair,Ano-Vaginal Fistula Repair
+Fistula Repair,Recto-Vaginal Fistula Repair
+Benign Colorectal Disease/Conditions,Hernia
+Hernia,Hernia Repair
+Benign Colorectal Disease/Conditions,Inflammatory Bowel Disease
+Inflammatory Bowel Disease,Crohn's Disease
+Inflammatory Bowel Disease,Ulcerative Colitis
+Benign Colorectal Disease/Conditions,Irritable Bowel Syndrome
+Benign Colorectal Disease/Conditions,Diverticular Disease
+Diverticular Disease,Diverticulitis
+Benign Colorectal Disease/Conditions,Large Bowel Obstruction (LBO)
+Anorectal Disease,Hemorrhoids
+Anorectal Disease,Fissures
+Anorectal Disease,Anorectal Abscess and Fistula
+Functional Disorders,Motility Disorders
+Motility Disorders,Anorectal Motility Disorders
+Motility Disorders,Colorectal Motility Disorders
+Colorectal Motility Disorders,Constipation
+Constipation,Chronic Functional Constipation
+Chronic Functional Constipation,Fecal Impaction
+Constipation,Functional Bloating and Distension
+Functional Disorders,Pelvic Floor Disease/Pelvic Floor Dysfunction
+Pelvic Floor Disease/Pelvic Floor Dysfunction,Rectal Prolapse
+Pelvic Floor Disease/Pelvic Floor Dysfunction,Endometriosis
+Pelvic Floor Disease/Pelvic Floor Dysfunction,Constipation
+Constipation,Chronic Functional Constipation
+Chronic Functional Constipation,Fecal Impaction
+Constipation,Fecal Incontinence
+Functional Disorders,Sphincter Dysfunction
+Sphincter Dysfunction,Fecal Incontinence
+Surgical Intervention,Surgical Techniques
+Surgical Techniques,Robotic Surgery
+Surgical Techniques,Complex Minimally Invasive Surgery
+Surgical Techniques,Complex Multivisceral Surgery
+Surgical Techniques,Intraoperative Radiation Therapy
+Surgical Techniques,Laparoscopic Surgery
+Surgical Intervention,Surgical Procedures
+Surgical Procedures,Anorectal Surgery
+Surgical Procedures,Fecal Microbiota/Stool Transplant
+Surgical Procedures,Colonoscopy
+Surgical Procedures,Ostomy Surgery (Bowel Diversion/Fecal Diversion)
+Surgical Procedures,Proctectomy
+Surgical Procedures,Proctolectomy
+Surgical Procedures,Strictuloplasty
+Surgical Procedures,Sphincter Preserving Surgery
+Sphincter Preserving Surgery,Low Anterior Resection (LAR)
+Sphincter Preserving Surgery,Inter-sphincteric Resection (ISR)
+Surgical Procedures,Sacral Nerve Stimulation (for Fecal Incontinence)

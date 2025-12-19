@@ -1,0 +1,104 @@
+parent,child
+Neurodegenerative Disorders,Alzheimer’s Disease and Other Dementias
+Alzheimer’s Disease and Other Dementias,Alzheimer’s Disease
+Alzheimer’s Disease and Other Dementias,Vascular Dementia
+Alzheimer’s Disease and Other Dementias,Lewy Body Dementia
+Neurodegenerative Disorders,Movement Disorders
+Movement Disorders,Parkinson’s Disease
+Movement Disorders,Dystonia
+Movement Disorders,Tourette Syndrome
+Movement Disorders,Gait Abnormalities/Disorders
+Movement Disorders,Cerebral Palsy (CP)
+Neurodegenerative Disorders,Motor Neuron Diseases
+Motor Neuron Diseases,Amyotrophic Lateral Sclerosis (ALS)
+Motor Neuron Diseases,Spinal Muscular Atrophy (SMA)
+Neurodegenerative Disorders,Ataxia and Related Disorders
+Ataxia and Related Disorders,Spinocerebellar Ataxia (SCA)
+Ataxia and Related Disorders,Multiple System Atrophy
+Neurodegenerative Disorders,Hereditary Spastic Paraplegia (Familial Spastic Paraparesis)
+Neurodegenerative Disorders,Huntington's Disease
+Cerebrovascular Disorders,Stroke/Stroke Neurology
+Cerebrovascular Disorders,Transient Ischemic Attack (TIA)
+Cerebrovascular Disorders,Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)
+Epilepsy and Seizure Disorders,Generalized and Focal Epilepsy
+Epilepsy and Seizure Disorders,Lennox-Gastaut Syndrome
+Headache and Headache Disorders,Migraine
+Headache and Headache Disorders,Cluster Headache
+Neuromuscular Disease,Peripheral Neuropathies
+Peripheral Neuropathies,Charcot-Marie-Tooth Disease
+Peripheral Neuropathies,Carpal Tunnel Syndrome
+Peripheral Neuropathies,Guillain-Barré Syndrome
+Peripheral Neuropathies,Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)
+Neuromuscular Disease,Myopathies and Inflammatory Muscle Disorders/Inflammatory Myositis
+Myopathies and Inflammatory Muscle Disorders/Inflammatory Myositis,Myositis
+Myositis,Polymyositis
+Myositis,Dermatomyositis
+Myositis,Inclusion Body Myositis
+Neuromuscular Disease,Neuromuscular Junction Disorders
+Neuromuscular Junction Disorders,Myasthenia Gravis
+Neuromuscular Junction Disorders,Lambert-Eaton Myasthenic Syndrome
+Neuro-Oncology,Central Nervous System Tumors
+Central Nervous System Tumors,Primary Brain Tumors
+Primary Brain Tumors,Gliomas
+Primary Brain Tumors,Glioblastoma
+Central Nervous System Tumors,Primary CNS Lymphomas
+Neurometabolic and Genetic Disorders,Neurometabolic Diseases
+Neurometabolic Diseases,Leukodystrophies
+Neurometabolic Diseases,Lysosomal Storage Diseases
+Lysosomal Storage Diseases,Gaucher's Disease
+Lysosomal Storage Diseases,Tay Sachs
+Lysosomal Storage Diseases,Fabry Disease
+Lysosomal Storage Diseases,Niemann-Pick Disease
+Lysosomal Storage Diseases,Mucolipidosis Type IV
+Neurometabolic Diseases,Glycogen Storage Diseases
+Neurometabolic Diseases,Peroxisomal Storage Diseases
+Peroxisomal Storage Diseases,Adrenoleukodystrophy
+Neurometabolic and Genetic Disorders,Neurogenetic Disorders
+Neurogenetic Disorders,Huntington’s Disease
+Neurogenetic Disorders,Spinal Muscular Atrophy
+Neurogenetic Disorders,Spinocerebellar Ataxia (SCA)
+Neurogenetic Disorders,Tuberous Sclerosis
+Neurogenetic Disorders,Neurofibromatosis (Type 1 and 2)
+Neurogenetic Disorders,Sturge-Weber Syndrome
+Neurometabolic and Genetic Disorders,Sleep Disorders
+Sleep Disorders,Obstructive Sleep Apnea
+Neurometabolic and Genetic Disorders,Behavioral Neurology and Cognitive Disorders
+Behavioral Neurology and Cognitive Disorders,Dementia
+Behavioral Neurology and Cognitive Disorders,Language Disorders
+Language Disorders,Aphasia/Dysphasia
+Behavioral Neurology and Cognitive Disorders,Agnosia
+Neurometabolic and Genetic Disorders,Neuro-Ophthalmology
+Neuro-Ophthalmology,Nystagmus
+Neurometabolic and Genetic Disorders,Neuro-Immunology and Inflammatory Disorders
+Neuro-Immunology and Inflammatory Disorders,Multiple Sclerosis (MS)
+Neuro-Immunology and Inflammatory Disorders,Autoimmune Encephalitis
+Neuro-Immunology and Inflammatory Disorders,Guillain-Barré Syndrome
+Neuro-Immunology and Inflammatory Disorders,Inflammatory Neuropathies
+Neuro-Immunology and Inflammatory Disorders,Inflammatory Myopathies
+Neuro-Immunology and Inflammatory Disorders,Neurosarcoidosis
+Neuro-Immunology and Inflammatory Disorders,Paraneoplastic Syndromes
+Neuro-Immunology and Inflammatory Disorders,Chronic Fatigue Syndrome/Myalgic Encephalomyelitis
+Neurometabolic and Genetic Disorders,Infectious Neurology and Prion Diseases
+Infectious Neurology and Prion Diseases,Bacterial Meningitis
+Infectious Neurology and Prion Diseases,Lyme Disease
+Infectious Neurology and Prion Diseases,Viral Neurological Infections
+Infectious Neurology and Prion Diseases,Creutzfeldt-Jakob Disease (CJD)
+Neurometabolic and Genetic Disorders,Autonomic Nervous System Disorders
+Autonomic Nervous System Disorders,Familial Dysautonomia
+Autonomic Nervous System Disorders,Pure Autonomic Failure
+Autonomic Nervous System Disorders,Multiple System Atrophy
+Autonomic Nervous System Disorders,Orthostatic Intolerance
+Orthostatic Intolerance,Postural Orthostatic Tachycardia Syndrome (POTS)
+Neurometabolic and Genetic Disorders,Neurodevelopmental Disorders
+Neurodevelopmental Disorders,Autism Spectrum Disorder
+Neurodevelopmental Disorders,Cerebral Palsy (CP)
+Neurodevelopmental Disorders,Rett Syndrome
+Neurometabolic and Genetic Disorders,Neurocritical Care
+Neurocritical Care,Coma
+Neurocritical Care,Traumatic Brain Injury (TBI)
+Neurocritical Care,Hydrocephalus
+Neurocritical Care,Chiari Malformations
+Neurocritical Care,Syringomyelia
+Neurometabolic and Genetic Disorders,Neuro-otology
+Neuro-otology,Vestibular Disorders
+Neuro-otology,Vertigo

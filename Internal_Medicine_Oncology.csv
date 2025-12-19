@@ -1,0 +1,136 @@
+parent,child
+Biological Therapy/Immunotherapy,Gene and Cellular Therapy
+Gene and Cellular Therapy,CAR-T(chimeric antigen receptor t-cell) therapy
+Gene and Cellular Therapy,Oncolytic Virotherapy
+Breast Cancer,Noninvasive Breast Cancers
+Noninvasive Breast Cancers,Ductal Carcinoma In Situ (DCIS)
+Breast Cancer,Invasive Breast Cancers
+Breast Cancer,Inflammatory Breast Cancer
+Breast Cancer,Paget's Disease of the Breast
+Breast Cancer,HR+ Breast Cancer
+Breast Cancer,HER2+ Breast Cancer
+Breast Cancer,Masectomy
+Thoracic Oncology,Lung Cancer
+Lung Cancer,Small Cell Lung Cancer
+Lung Cancer,Non-Small Cell Lung Cancer
+Non-Small Cell Lung Cancer,Adenocarcinoma
+Non-Small Cell Lung Cancer,Squamous Cell Carcinoma
+Non-Small Cell Lung Cancer,Large-Cell Carcinoma
+Thoracic Oncology,Mesothilioma
+Thoracic Oncology,Thymoma
+Gastrointestinal Cancer,Carcinoma of the Stomach/Stomach Cancer
+Gastrointestinal Cancer,Pancreatic Cancer
+Pancreatic Cancer,Pancreatic Islet-Cell Tumors
+Gastrointestinal Cancer,Liver Cancer/Liver Tumors
+Liver Cancer/Liver Tumors,Hepatocellular Carcinoma
+Liver Cancer/Liver Tumors,Hepatoblastoma
+Gastrointestinal Cancer,Cholangiocarcinoma/Bile Duct Cancer
+Gastrointestinal Cancer,Colorectal Cancer
+Colorectal Cancer,Colon Cancer
+Colorectal Cancer,Rectal Cancer
+Gastrointestinal Cancer,Anal Cancer
+Genitourinary Cancers,Kidney Cancer
+Kidney Cancer,Renal Cell Carcinoma
+Kidney Cancer,Wilms Tumor
+Genitourinary Cancers,Prostate Cancer
+Prostate Cancer,Metastatic Prostate Cancer
+Genitourinary Cancers,Bladder Cancer
+Genitourinary Cancers,Testicular Cancer
+Genitourinary Cancers,Penile Cancer
+Penile Cancer,Penile Squamous Cell Carcinoma
+Gynecologic Cancers,Endometrial Cancer
+Gynecologic Cancers,Cervical Cancer
+Gynecologic Cancers,Ovarian Cancer
+Ovarian Cancer,Ovarian Carcinoma
+Ovarian Cancer,Ovarian Germ Cell Tumors
+Gynecologic Cancers,Vulvar and Vaginal Cancers
+Hematologic Malignancies,Leukemias
+Leukemias,Acute Leukemias
+Acute Leukemias,Acute Lymphoblastic Leukemia (ALL)
+Acute Lymphoblastic Leukemia (ALL),B-cell ALL
+Acute Lymphoblastic Leukemia (ALL),T-cell ALL
+Acute Leukemias,Acute Myeloid Leukemia
+Acute Myeloid Leukemia,Acute Megakaryoblastic Leukemia
+Acute Myeloid Leukemia,Acute Promyelocytic Leukemia
+Leukemias,Chronic Leukemias
+Chronic Leukemias,Chronic Lymphocytic Leukemia
+Chronic Leukemias,Chronic Myelogenous Leukemia
+Hematologic Malignancies,Lymphomas
+Lymphomas,Hodgkin's Lymphoma
+Lymphomas,Non-Hodgkin's Lymphoma
+Non-Hodgkin's Lymphoma,B-cell Lymphomas
+B-cell Lymphomas,Burkitt Lymphoma
+Non-Hodgkin's Lymphoma,T-cell Lymphomas
+T-cell Lymphomas,Anaplastic Large Cell Lymphoma
+Non-Hodgkin's Lymphoma,Cutaneous Lymphomas
+Cutaneous Lymphomas,Metastatic Cutaneous Lymphomas
+Cutaneous Lymphomas,Cutaneous T-Cell Lymphomas
+Cutaneous T-Cell Lymphomas,Mycosis Fungoides
+Cutaneous T-Cell Lymphomas,Sezary Syndrome
+Cutaneous Lymphomas,Cutaneous B-Cell Lymphomas
+Skin Cancer/Cutaneous Oncology,Melanoma
+Skin Cancer/Cutaneous Oncology,Squamous Cell Carcinoma
+Skin Cancer/Cutaneous Oncology,Basal Cell Carcinoma
+Skin Cancer/Cutaneous Oncology,Merkel Cell Cancer
+Head and Neck Cancer,Orbital Tumors
+Head and Neck Cancer,Salivary Gland Tumors
+Head and Neck Cancer,Carcinoma of the Oral Cavity
+Head and Neck Cancer,Carcinoma of the Oropharynx
+Head and Neck Cancer,Carcinoma of the Larynx
+Endocrine Tumors,Thyroid Cancer
+Endocrine Tumors,Tumors of the Adrenal Glands
+Endocrine Tumors,Neuroendocrine Tumors
+Neuroendocrine Tumors,Metastatic Pheochromocytoma
+Sarcomas,Soft Tissue Sarcoma
+Soft Tissue Sarcoma,Fat Tissue Sarcoma
+Fat Tissue Sarcoma,Liposarcoma
+Soft Tissue Sarcoma,Fibrous/Connective Tissue Sarcoma
+Fibrous/Connective Tissue Sarcoma,Fibrosarcoma
+Fibrous/Connective Tissue Sarcoma,Inflammatory Myofibroblastic Tumor
+Soft Tissue Sarcoma,Gastrointenstinal Stromal Tumors
+Soft Tissue Sarcoma,Skeletal Muscle Tumors
+Skeletal Muscle Tumors,Rhabdomyosarcoma
+Soft Tissue Sarcoma,Smooth Muscle Tumors
+Smooth Muscle Tumors,Leiomyosarcoma
+Soft Tissue Sarcoma,Synovial Sarcoma
+Soft Tissue Sarcoma,Vascular Tumors
+Vascular Tumors,Hemangioma
+Hemangioma,Infantile Hemangioma
+Sarcomas,Bone Sarcomas
+Bone Sarcomas,Ewing Sarcoma
+Bone Sarcomas,Osteosarcoma
+Cancer Predisposition Syndromes,Beckwith-Wiedemann Syndrome
+Cancer Predisposition Syndromes,Li-Fraumeni Syndrome
+Cancer Predisposition Syndromes,Neurofibromatosis
+Neuro-Oncology,Central Nervous System Tumors
+Central Nervous System Tumors,Primary Brain Tumors
+Primary Brain Tumors,Posterior Fossa Tumors
+Primary Brain Tumors,Gliomas
+Gliomas,Low-Grade Glioma
+Low-Grade Glioma,Astrocytoma
+Low-Grade Glioma,Oligodendroglioma
+Low-Grade Glioma,Mixed oligoastrocytomas
+Gliomas,High-Grade Glioma
+High-Grade Glioma,Anaplastic Astrocytomas
+High-Grade Glioma,Anaplastic Oligodendrogliomas
+High-Grade Glioma,Glioblastoma
+Primary Brain Tumors,Meningiomas
+Primary Brain Tumors,Ependymomas
+Primary Brain Tumors,Embryonal Tumors
+Embryonal Tumors,Medulloblastomas
+Embryonal Tumors,Atypical Teratoid/Rhabdoid Tumors
+Embryonal Tumors,Neuroblastoma
+Central Nervous System Tumors,Primary CNS Lymphoma
+Central Nervous System Tumors,Meningeal Neoplasms
+Meningeal Neoplasms,Meningeal Carcinomatosis
+Neuro-Oncology,Central Nervous System Metastases
+Central Nervous System Metastases,Secondary Brain Tumors
+Secondary Brain Tumors,Metastatic Brain Tumors
+Neuro-Oncology,Spinal Cord Tumors
+Spinal Cord Tumors,Intramedullary Tumors
+Spinal Cord Tumors,Extramedullary Tumors
+Spinal Cord Tumors,Primary Spinal Tumors
+Spinal Cord Tumors,Secondary Spinal Tumors
+Cancer Treatment-Related Symptoms and Toxicities,Oncology-Associated Infections
+Cancer Treatment-Related Symptoms and Toxicities,Ototoxicity
+Cancer Treatment-Related Symptoms and Toxicities,Tumor Lysis Syndrome
